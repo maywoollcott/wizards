@@ -1,0 +1,4882 @@
+[
+    {
+        "gameDate": "10/23/19 0:00",
+        "personId": 5696,
+        "points": 19,
+        "fieldGoalsAttempted": 25,
+        "plusMinus": 1,
+        "pointsPer36MP": 21.5433,
+        "fieldGoalsAttemptedPer36MP": 28.3465,
+        "plusMinusPer36MP": 1.1339
+    },
+    {
+        "gameDate": "10/23/19 0:00",
+        "personId": 5698,
+        "points": 7,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -4,
+        "pointsPer36MP": 10.3918,
+        "fieldGoalsAttemptedPer36MP": 13.3608,
+        "plusMinusPer36MP": -5.9381
+    },
+    {
+        "gameDate": "10/23/19 0:00",
+        "personId": 6497,
+        "points": 7,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -17,
+        "pointsPer36MP": 8.7551,
+        "fieldGoalsAttemptedPer36MP": 10.0058,
+        "plusMinusPer36MP": -21.2623
+    },
+    {
+        "gameDate": "10/23/19 0:00",
+        "personId": 8685,
+        "points": 9,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 0,
+        "pointsPer36MP": 14.1495,
+        "fieldGoalsAttemptedPer36MP": 7.8608,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "10/23/19 0:00",
+        "personId": 8689,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": 3,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": 175.1351
+    },
+    {
+        "gameDate": "10/23/19 0:00",
+        "personId": 9756,
+        "points": 13,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 5,
+        "pointsPer36MP": 28.1363,
+        "fieldGoalsAttemptedPer36MP": 10.8216,
+        "plusMinusPer36MP": 10.8216
+    },
+    {
+        "gameDate": "10/23/19 0:00",
+        "personId": 9757,
+        "points": 14,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": 2,
+        "pointsPer36MP": 20.2831,
+        "fieldGoalsAttemptedPer36MP": 21.7318,
+        "plusMinusPer36MP": 2.8976
+    },
+    {
+        "gameDate": "10/24/19 0:00",
+        "personId": 8684,
+        "points": 3,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -3,
+        "pointsPer36MP": 26.3415,
+        "fieldGoalsAttemptedPer36MP": 26.3415,
+        "plusMinusPer36MP": -26.3415
+    },
+    {
+        "gameDate": "10/25/19 0:00",
+        "personId": 5696,
+        "points": 17,
+        "fieldGoalsAttempted": 22,
+        "plusMinus": 3,
+        "pointsPer36MP": 17.7135,
+        "fieldGoalsAttemptedPer36MP": 22.9233,
+        "plusMinusPer36MP": 3.1259
+    },
+    {
+        "gameDate": "10/25/19 0:00",
+        "personId": 5698,
+        "points": 4,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 7,
+        "pointsPer36MP": 4.3925,
+        "fieldGoalsAttemptedPer36MP": 8.785,
+        "plusMinusPer36MP": 7.6868
+    },
+    {
+        "gameDate": "10/25/19 0:00",
+        "personId": 6497,
+        "points": 13,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 16,
+        "pointsPer36MP": 17.0388,
+        "fieldGoalsAttemptedPer36MP": 15.7282,
+        "plusMinusPer36MP": 20.9709
+    },
+    {
+        "gameDate": "10/25/19 0:00",
+        "personId": 8685,
+        "points": 6,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -1,
+        "pointsPer36MP": 8.9881,
+        "fieldGoalsAttemptedPer36MP": 5.9921,
+        "plusMinusPer36MP": -1.498
+    },
+    {
+        "gameDate": "10/25/19 0:00",
+        "personId": 8689,
+        "points": 0,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 5,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 5.5102,
+        "plusMinusPer36MP": 13.7755
+    },
+    {
+        "gameDate": "10/25/19 0:00",
+        "personId": 9756,
+        "points": 10,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 9,
+        "pointsPer36MP": 21.7523,
+        "fieldGoalsAttemptedPer36MP": 15.2266,
+        "plusMinusPer36MP": 19.577
+    },
+    {
+        "gameDate": "10/25/19 0:00",
+        "personId": 9757,
+        "points": 19,
+        "fieldGoalsAttempted": 20,
+        "plusMinus": 10,
+        "pointsPer36MP": 19.7403,
+        "fieldGoalsAttemptedPer36MP": 20.7792,
+        "plusMinusPer36MP": 10.3896
+    },
+    {
+        "gameDate": "10/26/19 0:00",
+        "personId": 5696,
+        "points": 25,
+        "fieldGoalsAttempted": 25,
+        "plusMinus": -5,
+        "pointsPer36MP": 23.4172,
+        "fieldGoalsAttemptedPer36MP": 23.4172,
+        "plusMinusPer36MP": -4.6834
+    },
+    {
+        "gameDate": "10/26/19 0:00",
+        "personId": 5698,
+        "points": 19,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -3,
+        "pointsPer36MP": 23.293,
+        "fieldGoalsAttemptedPer36MP": 15.9373,
+        "plusMinusPer36MP": -3.6778
+    },
+    {
+        "gameDate": "10/26/19 0:00",
+        "personId": 6497,
+        "points": 23,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -6,
+        "pointsPer36MP": 25.49,
+        "fieldGoalsAttemptedPer36MP": 7.7578,
+        "plusMinusPer36MP": -6.6496
+    },
+    {
+        "gameDate": "10/26/19 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": 0,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "10/26/19 0:00",
+        "personId": 8685,
+        "points": 4,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": 7,
+        "pointsPer36MP": 5.542,
+        "fieldGoalsAttemptedPer36MP": 5.542,
+        "plusMinusPer36MP": 9.6985
+    },
+    {
+        "gameDate": "10/26/19 0:00",
+        "personId": 9756,
+        "points": 9,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 4,
+        "pointsPer36MP": 18.4265,
+        "fieldGoalsAttemptedPer36MP": 14.3318,
+        "plusMinusPer36MP": 8.1896
+    },
+    {
+        "gameDate": "10/26/19 0:00",
+        "personId": 9757,
+        "points": 16,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": -5,
+        "pointsPer36MP": 15.1652,
+        "fieldGoalsAttemptedPer36MP": 13.2696,
+        "plusMinusPer36MP": -4.7391
+    },
+    {
+        "gameDate": "10/28/19 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": -2,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": -60
+    },
+    {
+        "gameDate": "10/30/19 0:00",
+        "personId": 5696,
+        "points": 46,
+        "fieldGoalsAttempted": 20,
+        "plusMinus": 8,
+        "pointsPer36MP": 40.8889,
+        "fieldGoalsAttemptedPer36MP": 17.7778,
+        "plusMinusPer36MP": 7.1111
+    },
+    {
+        "gameDate": "10/30/19 0:00",
+        "personId": 5698,
+        "points": 6,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -7,
+        "pointsPer36MP": 9.277,
+        "fieldGoalsAttemptedPer36MP": 9.277,
+        "plusMinusPer36MP": -10.8232
+    },
+    {
+        "gameDate": "10/30/19 0:00",
+        "personId": 6497,
+        "points": 21,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 4,
+        "pointsPer36MP": 28.0519,
+        "fieldGoalsAttemptedPer36MP": 13.3581,
+        "plusMinusPer36MP": 5.3432
+    },
+    {
+        "gameDate": "10/30/19 0:00",
+        "personId": 8684,
+        "points": 9,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -2,
+        "pointsPer36MP": 17.3262,
+        "fieldGoalsAttemptedPer36MP": 13.4759,
+        "plusMinusPer36MP": -3.8503
+    },
+    {
+        "gameDate": "10/30/19 0:00",
+        "personId": 8685,
+        "points": 6,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -16,
+        "pointsPer36MP": 8.7514,
+        "fieldGoalsAttemptedPer36MP": 5.8343,
+        "plusMinusPer36MP": -23.3372
+    },
+    {
+        "gameDate": "10/30/19 0:00",
+        "personId": 8687,
+        "points": 14,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 12,
+        "pointsPer36MP": 30.1496,
+        "fieldGoalsAttemptedPer36MP": 15.0748,
+        "plusMinusPer36MP": 25.8425
+    },
+    {
+        "gameDate": "10/30/19 0:00",
+        "personId": 9756,
+        "points": 12,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 5,
+        "pointsPer36MP": 31.5328,
+        "fieldGoalsAttemptedPer36MP": 21.0219,
+        "plusMinusPer36MP": 13.1387
+    },
+    {
+        "gameDate": "10/30/19 0:00",
+        "personId": 9757,
+        "points": 23,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -12,
+        "pointsPer36MP": 23.313,
+        "fieldGoalsAttemptedPer36MP": 15.2041,
+        "plusMinusPer36MP": -12.1633
+    },
+    {
+        "gameDate": "11/2/19 0:00",
+        "personId": 5696,
+        "points": 30,
+        "fieldGoalsAttempted": 19,
+        "plusMinus": -41,
+        "pointsPer36MP": 38.7328,
+        "fieldGoalsAttemptedPer36MP": 24.5308,
+        "plusMinusPer36MP": -52.9348
+    },
+    {
+        "gameDate": "11/2/19 0:00",
+        "personId": 5698,
+        "points": 7,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -1,
+        "pointsPer36MP": 8.0554,
+        "fieldGoalsAttemptedPer36MP": 9.2062,
+        "plusMinusPer36MP": -1.1508
+    },
+    {
+        "gameDate": "11/2/19 0:00",
+        "personId": 6497,
+        "points": 8,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": -11,
+        "pointsPer36MP": 10.6208,
+        "fieldGoalsAttemptedPer36MP": 13.276,
+        "plusMinusPer36MP": -14.6036
+    },
+    {
+        "gameDate": "11/2/19 0:00",
+        "personId": 8685,
+        "points": 3,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -5,
+        "pointsPer36MP": 5.9724,
+        "fieldGoalsAttemptedPer36MP": 9.9539,
+        "plusMinusPer36MP": -9.9539
+    },
+    {
+        "gameDate": "11/2/19 0:00",
+        "personId": 8687,
+        "points": 4,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -8,
+        "pointsPer36MP": 6.6005,
+        "fieldGoalsAttemptedPer36MP": 6.6005,
+        "plusMinusPer36MP": -13.2009
+    },
+    {
+        "gameDate": "11/2/19 0:00",
+        "personId": 9756,
+        "points": 14,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 5,
+        "pointsPer36MP": 17.8618,
+        "fieldGoalsAttemptedPer36MP": 11.4826,
+        "plusMinusPer36MP": 6.3792
+    },
+    {
+        "gameDate": "11/2/19 0:00",
+        "personId": 9757,
+        "points": 4,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -28,
+        "pointsPer36MP": 6.4047,
+        "fieldGoalsAttemptedPer36MP": 17.613,
+        "plusMinusPer36MP": -44.8332
+    },
+    {
+        "gameDate": "11/4/19 0:00",
+        "personId": 5696,
+        "points": 22,
+        "fieldGoalsAttempted": 17,
+        "plusMinus": -2,
+        "pointsPer36MP": 24.4696,
+        "fieldGoalsAttemptedPer36MP": 18.9083,
+        "plusMinusPer36MP": -2.2245
+    },
+    {
+        "gameDate": "11/4/19 0:00",
+        "personId": 5698,
+        "points": 6,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 19,
+        "pointsPer36MP": 10.5882,
+        "fieldGoalsAttemptedPer36MP": 15.8824,
+        "plusMinusPer36MP": 33.5294
+    },
+    {
+        "gameDate": "11/4/19 0:00",
+        "personId": 6497,
+        "points": 9,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 7,
+        "pointsPer36MP": 14.5727,
+        "fieldGoalsAttemptedPer36MP": 11.3343,
+        "plusMinusPer36MP": 11.3343
+    },
+    {
+        "gameDate": "11/4/19 0:00",
+        "personId": 8685,
+        "points": 5,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 16,
+        "pointsPer36MP": 7.8947,
+        "fieldGoalsAttemptedPer36MP": 7.8947,
+        "plusMinusPer36MP": 25.2632
+    },
+    {
+        "gameDate": "11/4/19 0:00",
+        "personId": 8687,
+        "points": 14,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 16,
+        "pointsPer36MP": 16.5246,
+        "fieldGoalsAttemptedPer36MP": 11.8033,
+        "plusMinusPer36MP": 18.8852
+    },
+    {
+        "gameDate": "11/4/19 0:00",
+        "personId": 9756,
+        "points": 12,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 21,
+        "pointsPer36MP": 20.093,
+        "fieldGoalsAttemptedPer36MP": 11.7209,
+        "plusMinusPer36MP": 35.1628
+    },
+    {
+        "gameDate": "11/4/19 0:00",
+        "personId": 9757,
+        "points": 12,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -2,
+        "pointsPer36MP": 26.5058,
+        "fieldGoalsAttemptedPer36MP": 15.4617,
+        "plusMinusPer36MP": -4.4176
+    },
+    {
+        "gameDate": "11/6/19 0:00",
+        "personId": 5696,
+        "points": 30,
+        "fieldGoalsAttempted": 29,
+        "plusMinus": -10,
+        "pointsPer36MP": 26.0555,
+        "fieldGoalsAttemptedPer36MP": 25.187,
+        "plusMinusPer36MP": -8.6852
+    },
+    {
+        "gameDate": "11/6/19 0:00",
+        "personId": 5698,
+        "points": 5,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 1,
+        "pointsPer36MP": 6.3679,
+        "fieldGoalsAttemptedPer36MP": 6.3679,
+        "plusMinusPer36MP": 1.2736
+    },
+    {
+        "gameDate": "11/6/19 0:00",
+        "personId": 6497,
+        "points": 11,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -3,
+        "pointsPer36MP": 13.822,
+        "fieldGoalsAttemptedPer36MP": 10.0524,
+        "plusMinusPer36MP": -3.7696
+    },
+    {
+        "gameDate": "11/6/19 0:00",
+        "personId": 8684,
+        "points": 2,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 2,
+        "pointsPer36MP": 4.9718,
+        "fieldGoalsAttemptedPer36MP": 14.9154,
+        "plusMinusPer36MP": 4.9718
+    },
+    {
+        "gameDate": "11/6/19 0:00",
+        "personId": 8685,
+        "points": 0,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -6,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 6.8354,
+        "plusMinusPer36MP": -20.5063
+    },
+    {
+        "gameDate": "11/6/19 0:00",
+        "personId": 8687,
+        "points": 7,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -17,
+        "pointsPer36MP": 14.6796,
+        "fieldGoalsAttemptedPer36MP": 18.8738,
+        "plusMinusPer36MP": -35.6505
+    },
+    {
+        "gameDate": "11/6/19 0:00",
+        "personId": 9756,
+        "points": 8,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -4,
+        "pointsPer36MP": 20.8948,
+        "fieldGoalsAttemptedPer36MP": 15.6711,
+        "plusMinusPer36MP": -10.4474
+    },
+    {
+        "gameDate": "11/6/19 0:00",
+        "personId": 9757,
+        "points": 0,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -19,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 8.64,
+        "plusMinusPer36MP": -32.832
+    },
+    {
+        "gameDate": "11/8/19 0:00",
+        "personId": 5696,
+        "points": 20,
+        "fieldGoalsAttempted": 21,
+        "plusMinus": -2,
+        "pointsPer36MP": 18.4694,
+        "fieldGoalsAttemptedPer36MP": 19.3929,
+        "plusMinusPer36MP": -1.8469
+    },
+    {
+        "gameDate": "11/8/19 0:00",
+        "personId": 5698,
+        "points": 7,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -1,
+        "pointsPer36MP": 13.1023,
+        "fieldGoalsAttemptedPer36MP": 7.487,
+        "plusMinusPer36MP": -1.8718
+    },
+    {
+        "gameDate": "11/8/19 0:00",
+        "personId": 6497,
+        "points": 5,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 4,
+        "pointsPer36MP": 6.8354,
+        "fieldGoalsAttemptedPer36MP": 13.6709,
+        "plusMinusPer36MP": 5.4684
+    },
+    {
+        "gameDate": "11/8/19 0:00",
+        "personId": 8687,
+        "points": 3,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -13,
+        "pointsPer36MP": 5.6348,
+        "fieldGoalsAttemptedPer36MP": 15.0261,
+        "plusMinusPer36MP": -24.4174
+    },
+    {
+        "gameDate": "11/8/19 0:00",
+        "personId": 9756,
+        "points": 8,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -5,
+        "pointsPer36MP": 19.9769,
+        "fieldGoalsAttemptedPer36MP": 14.9827,
+        "plusMinusPer36MP": -12.4855
+    },
+    {
+        "gameDate": "11/8/19 0:00",
+        "personId": 9757,
+        "points": 21,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -15,
+        "pointsPer36MP": 21.4164,
+        "fieldGoalsAttemptedPer36MP": 13.2578,
+        "plusMinusPer36MP": -15.2975
+    },
+    {
+        "gameDate": "11/13/19 0:00",
+        "personId": 5696,
+        "points": 44,
+        "fieldGoalsAttempted": 27,
+        "plusMinus": 0,
+        "pointsPer36MP": 40.6154,
+        "fieldGoalsAttemptedPer36MP": 24.9231,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "11/13/19 0:00",
+        "personId": 5698,
+        "points": 4,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -3,
+        "pointsPer36MP": 7.876,
+        "fieldGoalsAttemptedPer36MP": 9.845,
+        "plusMinusPer36MP": -5.907
+    },
+    {
+        "gameDate": "11/13/19 0:00",
+        "personId": 6497,
+        "points": 9,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -3,
+        "pointsPer36MP": 11.9118,
+        "fieldGoalsAttemptedPer36MP": 11.9118,
+        "plusMinusPer36MP": -3.9706
+    },
+    {
+        "gameDate": "11/13/19 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 1,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 16.875,
+        "plusMinusPer36MP": 16.875
+    },
+    {
+        "gameDate": "11/13/19 0:00",
+        "personId": 8687,
+        "points": 7,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -1,
+        "pointsPer36MP": 9.1859,
+        "fieldGoalsAttemptedPer36MP": 5.2491,
+        "plusMinusPer36MP": -1.3123
+    },
+    {
+        "gameDate": "11/13/19 0:00",
+        "personId": 9756,
+        "points": 12,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 4,
+        "pointsPer36MP": 24.4551,
+        "fieldGoalsAttemptedPer36MP": 12.2276,
+        "plusMinusPer36MP": 8.1517
+    },
+    {
+        "gameDate": "11/13/19 0:00",
+        "personId": 9757,
+        "points": 21,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -5,
+        "pointsPer36MP": 31.1753,
+        "fieldGoalsAttemptedPer36MP": 17.8144,
+        "plusMinusPer36MP": -7.4227
+    },
+    {
+        "gameDate": "11/14/19 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 7,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 4.1499,
+        "plusMinusPer36MP": 14.5245
+    },
+    {
+        "gameDate": "11/15/19 0:00",
+        "personId": 5696,
+        "points": 44,
+        "fieldGoalsAttempted": 22,
+        "plusMinus": 31,
+        "pointsPer36MP": 42.8494,
+        "fieldGoalsAttemptedPer36MP": 21.4247,
+        "plusMinusPer36MP": 30.1894
+    },
+    {
+        "gameDate": "11/15/19 0:00",
+        "personId": 5698,
+        "points": 0,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 8,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 8.5517,
+        "plusMinusPer36MP": 13.6828
+    },
+    {
+        "gameDate": "11/15/19 0:00",
+        "personId": 6497,
+        "points": 8,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 14,
+        "pointsPer36MP": 11.7232,
+        "fieldGoalsAttemptedPer36MP": 14.654,
+        "plusMinusPer36MP": 20.5156
+    },
+    {
+        "gameDate": "11/15/19 0:00",
+        "personId": 8685,
+        "points": 3,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 1,
+        "pointsPer36MP": 39.7546,
+        "fieldGoalsAttemptedPer36MP": 13.2515,
+        "plusMinusPer36MP": 13.2515
+    },
+    {
+        "gameDate": "11/15/19 0:00",
+        "personId": 8687,
+        "points": 11,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 9,
+        "pointsPer36MP": 14.9716,
+        "fieldGoalsAttemptedPer36MP": 10.8885,
+        "plusMinusPer36MP": 12.2495
+    },
+    {
+        "gameDate": "11/15/19 0:00",
+        "personId": 9756,
+        "points": 30,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": 18,
+        "pointsPer36MP": 42.4918,
+        "fieldGoalsAttemptedPer36MP": 21.2459,
+        "plusMinusPer36MP": 25.4951
+    },
+    {
+        "gameDate": "11/15/19 0:00",
+        "personId": 9757,
+        "points": 8,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 10,
+        "pointsPer36MP": 11.4361,
+        "fieldGoalsAttemptedPer36MP": 14.2952,
+        "plusMinusPer36MP": 14.2952
+    },
+    {
+        "gameDate": "11/16/19 0:00",
+        "personId": 8684,
+        "points": 21,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": 26,
+        "pointsPer36MP": 23.202,
+        "fieldGoalsAttemptedPer36MP": 14.3632,
+        "plusMinusPer36MP": 28.7263
+    },
+    {
+        "gameDate": "11/17/19 0:00",
+        "personId": 5696,
+        "points": 34,
+        "fieldGoalsAttempted": 26,
+        "plusMinus": -5,
+        "pointsPer36MP": 30.9091,
+        "fieldGoalsAttemptedPer36MP": 23.6364,
+        "plusMinusPer36MP": -4.5455
+    },
+    {
+        "gameDate": "11/17/19 0:00",
+        "personId": 5698,
+        "points": 4,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 0,
+        "pointsPer36MP": 7.4676,
+        "fieldGoalsAttemptedPer36MP": 13.0683,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "11/17/19 0:00",
+        "personId": 6497,
+        "points": 15,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": 11,
+        "pointsPer36MP": 16.6154,
+        "fieldGoalsAttemptedPer36MP": 12.1846,
+        "plusMinusPer36MP": 12.1846
+    },
+    {
+        "gameDate": "11/17/19 0:00",
+        "personId": 8687,
+        "points": 2,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -14,
+        "pointsPer36MP": 3.0126,
+        "fieldGoalsAttemptedPer36MP": 7.5314,
+        "plusMinusPer36MP": -21.0879
+    },
+    {
+        "gameDate": "11/17/19 0:00",
+        "personId": 9756,
+        "points": 12,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 0,
+        "pointsPer36MP": 21.1765,
+        "fieldGoalsAttemptedPer36MP": 14.1176,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "11/17/19 0:00",
+        "personId": 9757,
+        "points": 6,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -3,
+        "pointsPer36MP": 7.7378,
+        "fieldGoalsAttemptedPer36MP": 9.0274,
+        "plusMinusPer36MP": -3.8689
+    },
+    {
+        "gameDate": "11/18/19 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 4,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 7.1053,
+        "plusMinusPer36MP": 14.2105
+    },
+    {
+        "gameDate": "11/20/19 0:00",
+        "personId": 5696,
+        "points": 33,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": 1,
+        "pointsPer36MP": 31.1675,
+        "fieldGoalsAttemptedPer36MP": 22.6672,
+        "plusMinusPer36MP": 0.9445
+    },
+    {
+        "gameDate": "11/20/19 0:00",
+        "personId": 5698,
+        "points": 21,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 4,
+        "pointsPer36MP": 31.7203,
+        "fieldGoalsAttemptedPer36MP": 18.1259,
+        "plusMinusPer36MP": 6.042
+    },
+    {
+        "gameDate": "11/20/19 0:00",
+        "personId": 6497,
+        "points": 21,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -2,
+        "pointsPer36MP": 25.6561,
+        "fieldGoalsAttemptedPer36MP": 13.4389,
+        "plusMinusPer36MP": -2.4434
+    },
+    {
+        "gameDate": "11/20/19 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": -1,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": -30.8571
+    },
+    {
+        "gameDate": "11/20/19 0:00",
+        "personId": 8687,
+        "points": 5,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 1,
+        "pointsPer36MP": 9.1993,
+        "fieldGoalsAttemptedPer36MP": 5.5196,
+        "plusMinusPer36MP": 1.8399
+    },
+    {
+        "gameDate": "11/20/19 0:00",
+        "personId": 9756,
+        "points": 13,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 3,
+        "pointsPer36MP": 18.317,
+        "fieldGoalsAttemptedPer36MP": 11.272,
+        "plusMinusPer36MP": 4.227
+    },
+    {
+        "gameDate": "11/20/19 0:00",
+        "personId": 9757,
+        "points": 15,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 13,
+        "pointsPer36MP": 21.2181,
+        "fieldGoalsAttemptedPer36MP": 14.1454,
+        "plusMinusPer36MP": 18.389
+    },
+    {
+        "gameDate": "11/22/19 0:00",
+        "personId": 5696,
+        "points": 30,
+        "fieldGoalsAttempted": 19,
+        "plusMinus": 11,
+        "pointsPer36MP": 25.5823,
+        "fieldGoalsAttemptedPer36MP": 16.2021,
+        "plusMinusPer36MP": 9.3802
+    },
+    {
+        "gameDate": "11/22/19 0:00",
+        "personId": 5698,
+        "points": 10,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 10,
+        "pointsPer36MP": 13.5,
+        "fieldGoalsAttemptedPer36MP": 10.8,
+        "plusMinusPer36MP": 13.5
+    },
+    {
+        "gameDate": "11/22/19 0:00",
+        "personId": 6497,
+        "points": 20,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": 10,
+        "pointsPer36MP": 25.6532,
+        "fieldGoalsAttemptedPer36MP": 16.6746,
+        "plusMinusPer36MP": 12.8266
+    },
+    {
+        "gameDate": "11/22/19 0:00",
+        "personId": 8684,
+        "points": 3,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 5,
+        "pointsPer36MP": 9.6572,
+        "fieldGoalsAttemptedPer36MP": 3.2191,
+        "plusMinusPer36MP": 16.0954
+    },
+    {
+        "gameDate": "11/22/19 0:00",
+        "personId": 8687,
+        "points": 4,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -3,
+        "pointsPer36MP": 7.1346,
+        "fieldGoalsAttemptedPer36MP": 10.7019,
+        "plusMinusPer36MP": -5.3509
+    },
+    {
+        "gameDate": "11/22/19 0:00",
+        "personId": 9756,
+        "points": 7,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -14,
+        "pointsPer36MP": 18.5067,
+        "fieldGoalsAttemptedPer36MP": 13.2191,
+        "plusMinusPer36MP": -37.0135
+    },
+    {
+        "gameDate": "11/22/19 0:00",
+        "personId": 9757,
+        "points": 15,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -3,
+        "pointsPer36MP": 25.3125,
+        "fieldGoalsAttemptedPer36MP": 20.25,
+        "plusMinusPer36MP": -5.0625
+    },
+    {
+        "gameDate": "11/24/19 0:00",
+        "personId": 5696,
+        "points": 20,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": -4,
+        "pointsPer36MP": 17.4835,
+        "fieldGoalsAttemptedPer36MP": 15.7352,
+        "plusMinusPer36MP": -3.4967
+    },
+    {
+        "gameDate": "11/24/19 0:00",
+        "personId": 5698,
+        "points": 7,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 6,
+        "pointsPer36MP": 10.4492,
+        "fieldGoalsAttemptedPer36MP": 13.4347,
+        "plusMinusPer36MP": 8.9565
+    },
+    {
+        "gameDate": "11/24/19 0:00",
+        "personId": 6497,
+        "points": 12,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 4,
+        "pointsPer36MP": 14.7189,
+        "fieldGoalsAttemptedPer36MP": 12.2658,
+        "plusMinusPer36MP": 4.9063
+    },
+    {
+        "gameDate": "11/24/19 0:00",
+        "personId": 8684,
+        "points": 4,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 26,
+        "pointsPer36MP": 9.8518,
+        "fieldGoalsAttemptedPer36MP": 14.7777,
+        "plusMinusPer36MP": 64.0365
+    },
+    {
+        "gameDate": "11/24/19 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 2,
+        "pointsPer36MP": 120,
+        "fieldGoalsAttemptedPer36MP": 60,
+        "plusMinusPer36MP": 120
+    },
+    {
+        "gameDate": "11/24/19 0:00",
+        "personId": 8687,
+        "points": 0,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -2,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 14.7945,
+        "plusMinusPer36MP": -4.9315
+    },
+    {
+        "gameDate": "11/24/19 0:00",
+        "personId": 9756,
+        "points": 12,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -8,
+        "pointsPer36MP": 22.7568,
+        "fieldGoalsAttemptedPer36MP": 17.0676,
+        "plusMinusPer36MP": -15.1712
+    },
+    {
+        "gameDate": "11/24/19 0:00",
+        "personId": 9757,
+        "points": 7,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -8,
+        "pointsPer36MP": 10.7623,
+        "fieldGoalsAttemptedPer36MP": 10.7623,
+        "plusMinusPer36MP": -12.2998
+    },
+    {
+        "gameDate": "11/26/19 0:00",
+        "personId": 5696,
+        "points": 14,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -15,
+        "pointsPer36MP": 16.9983,
+        "fieldGoalsAttemptedPer36MP": 18.2125,
+        "plusMinusPer36MP": -18.2125
+    },
+    {
+        "gameDate": "11/26/19 0:00",
+        "personId": 5698,
+        "points": 2,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -6,
+        "pointsPer36MP": 3.5468,
+        "fieldGoalsAttemptedPer36MP": 10.6404,
+        "plusMinusPer36MP": -10.6404
+    },
+    {
+        "gameDate": "11/26/19 0:00",
+        "personId": 6497,
+        "points": 14,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -12,
+        "pointsPer36MP": 22.3669,
+        "fieldGoalsAttemptedPer36MP": 14.3787,
+        "plusMinusPer36MP": -19.1716
+    },
+    {
+        "gameDate": "11/26/19 0:00",
+        "personId": 8684,
+        "points": 2,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 0,
+        "pointsPer36MP": 7.0358,
+        "fieldGoalsAttemptedPer36MP": 7.0358,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "11/26/19 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 6,
+        "pointsPer36MP": 12.3077,
+        "fieldGoalsAttemptedPer36MP": 6.1538,
+        "plusMinusPer36MP": 36.9231
+    },
+    {
+        "gameDate": "11/26/19 0:00",
+        "personId": 8687,
+        "points": 12,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -7,
+        "pointsPer36MP": 18.9335,
+        "fieldGoalsAttemptedPer36MP": 12.6224,
+        "plusMinusPer36MP": -11.0446
+    },
+    {
+        "gameDate": "11/26/19 0:00",
+        "personId": 9756,
+        "points": 14,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 1,
+        "pointsPer36MP": 19.9604,
+        "fieldGoalsAttemptedPer36MP": 11.4059,
+        "plusMinusPer36MP": 1.4257
+    },
+    {
+        "gameDate": "11/26/19 0:00",
+        "personId": 9757,
+        "points": 7,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": -16,
+        "pointsPer36MP": 11.4459,
+        "fieldGoalsAttemptedPer36MP": 16.3512,
+        "plusMinusPer36MP": -26.162
+    },
+    {
+        "gameDate": "11/27/19 0:00",
+        "personId": 5696,
+        "points": 35,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": 13,
+        "pointsPer36MP": 31.738,
+        "fieldGoalsAttemptedPer36MP": 16.3224,
+        "plusMinusPer36MP": 11.7884
+    },
+    {
+        "gameDate": "11/27/19 0:00",
+        "personId": 5698,
+        "points": 21,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": 1,
+        "pointsPer36MP": 29.4928,
+        "fieldGoalsAttemptedPer36MP": 15.4486,
+        "plusMinusPer36MP": 1.4044
+    },
+    {
+        "gameDate": "11/27/19 0:00",
+        "personId": 6497,
+        "points": 16,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 3,
+        "pointsPer36MP": 21.0347,
+        "fieldGoalsAttemptedPer36MP": 11.832,
+        "plusMinusPer36MP": 3.944
+    },
+    {
+        "gameDate": "11/27/19 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -1,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 10.2128,
+        "plusMinusPer36MP": -2.5532
+    },
+    {
+        "gameDate": "11/27/19 0:00",
+        "personId": 8685,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": -1,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": -8.3721
+    },
+    {
+        "gameDate": "11/27/19 0:00",
+        "personId": 8687,
+        "points": 5,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 9,
+        "pointsPer36MP": 12.691,
+        "fieldGoalsAttemptedPer36MP": 12.691,
+        "plusMinusPer36MP": 22.8437
+    },
+    {
+        "gameDate": "11/27/19 0:00",
+        "personId": 9756,
+        "points": 11,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -4,
+        "pointsPer36MP": 21.7582,
+        "fieldGoalsAttemptedPer36MP": 13.8462,
+        "plusMinusPer36MP": -7.9121
+    },
+    {
+        "gameDate": "11/27/19 0:00",
+        "personId": 9757,
+        "points": 6,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 5,
+        "pointsPer36MP": 6.9603,
+        "fieldGoalsAttemptedPer36MP": 9.2803,
+        "plusMinusPer36MP": 5.8002
+    },
+    {
+        "gameDate": "11/29/19 0:00",
+        "personId": 5696,
+        "points": 18,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -20,
+        "pointsPer36MP": 21.3275,
+        "fieldGoalsAttemptedPer36MP": 15.4032,
+        "plusMinusPer36MP": -23.6972
+    },
+    {
+        "gameDate": "11/29/19 0:00",
+        "personId": 5698,
+        "points": 13,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": -9,
+        "pointsPer36MP": 17.8967,
+        "fieldGoalsAttemptedPer36MP": 19.2734,
+        "plusMinusPer36MP": -12.3901
+    },
+    {
+        "gameDate": "11/29/19 0:00",
+        "personId": 6497,
+        "points": 6,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -2,
+        "pointsPer36MP": 8.0148,
+        "fieldGoalsAttemptedPer36MP": 8.0148,
+        "plusMinusPer36MP": -2.6716
+    },
+    {
+        "gameDate": "11/29/19 0:00",
+        "personId": 8684,
+        "points": 8,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -11,
+        "pointsPer36MP": 20.1869,
+        "fieldGoalsAttemptedPer36MP": 17.6636,
+        "plusMinusPer36MP": -27.757
+    },
+    {
+        "gameDate": "11/29/19 0:00",
+        "personId": 8685,
+        "points": 6,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 0,
+        "pointsPer36MP": 12.5338,
+        "fieldGoalsAttemptedPer36MP": 10.4449,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "11/29/19 0:00",
+        "personId": 8687,
+        "points": 9,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": -18,
+        "pointsPer36MP": 16.3636,
+        "fieldGoalsAttemptedPer36MP": 18.1818,
+        "plusMinusPer36MP": -32.7273
+    },
+    {
+        "gameDate": "11/29/19 0:00",
+        "personId": 9756,
+        "points": 7,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -3,
+        "pointsPer36MP": 11.5508,
+        "fieldGoalsAttemptedPer36MP": 14.851,
+        "plusMinusPer36MP": -4.9503
+    },
+    {
+        "gameDate": "11/29/19 0:00",
+        "personId": 9757,
+        "points": 16,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -27,
+        "pointsPer36MP": 21.832,
+        "fieldGoalsAttemptedPer36MP": 20.4675,
+        "plusMinusPer36MP": -36.8414
+    },
+    {
+        "gameDate": "12/1/19 0:00",
+        "personId": 5696,
+        "points": 23,
+        "fieldGoalsAttempted": 19,
+        "plusMinus": -14,
+        "pointsPer36MP": 23.8961,
+        "fieldGoalsAttemptedPer36MP": 19.7403,
+        "plusMinusPer36MP": -14.5455
+    },
+    {
+        "gameDate": "12/1/19 0:00",
+        "personId": 5698,
+        "points": 4,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -20,
+        "pointsPer36MP": 8.4129,
+        "fieldGoalsAttemptedPer36MP": 12.6193,
+        "plusMinusPer36MP": -42.0643
+    },
+    {
+        "gameDate": "12/1/19 0:00",
+        "personId": 6497,
+        "points": 20,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": -32,
+        "pointsPer36MP": 24.8848,
+        "fieldGoalsAttemptedPer36MP": 12.4424,
+        "plusMinusPer36MP": -39.8157
+    },
+    {
+        "gameDate": "12/1/19 0:00",
+        "personId": 8684,
+        "points": 8,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": 8,
+        "pointsPer36MP": 14.6193,
+        "fieldGoalsAttemptedPer36MP": 7.3096,
+        "plusMinusPer36MP": 14.6193
+    },
+    {
+        "gameDate": "12/1/19 0:00",
+        "personId": 8685,
+        "points": 7,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -2,
+        "pointsPer36MP": 12.9785,
+        "fieldGoalsAttemptedPer36MP": 7.4163,
+        "plusMinusPer36MP": -3.7082
+    },
+    {
+        "gameDate": "12/1/19 0:00",
+        "personId": 8687,
+        "points": 8,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -8,
+        "pointsPer36MP": 13.0514,
+        "fieldGoalsAttemptedPer36MP": 13.0514,
+        "plusMinusPer36MP": -13.0514
+    },
+    {
+        "gameDate": "12/1/19 0:00",
+        "personId": 9757,
+        "points": 30,
+        "fieldGoalsAttempted": 23,
+        "plusMinus": -8,
+        "pointsPer36MP": 28.0896,
+        "fieldGoalsAttemptedPer36MP": 21.5354,
+        "plusMinusPer36MP": -7.4906
+    },
+    {
+        "gameDate": "12/3/19 0:00",
+        "personId": 5696,
+        "points": 42,
+        "fieldGoalsAttempted": 30,
+        "plusMinus": -15,
+        "pointsPer36MP": 36.1161,
+        "fieldGoalsAttemptedPer36MP": 25.7972,
+        "plusMinusPer36MP": -12.8986
+    },
+    {
+        "gameDate": "12/3/19 0:00",
+        "personId": 5698,
+        "points": 5,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -9,
+        "pointsPer36MP": 12.9964,
+        "fieldGoalsAttemptedPer36MP": 12.9964,
+        "plusMinusPer36MP": -23.3935
+    },
+    {
+        "gameDate": "12/3/19 0:00",
+        "personId": 6497,
+        "points": 21,
+        "fieldGoalsAttempted": 16,
+        "plusMinus": -3,
+        "pointsPer36MP": 18.885,
+        "fieldGoalsAttemptedPer36MP": 14.3886,
+        "plusMinusPer36MP": -2.6979
+    },
+    {
+        "gameDate": "12/3/19 0:00",
+        "personId": 8684,
+        "points": 4,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 15,
+        "pointsPer36MP": 7.5,
+        "fieldGoalsAttemptedPer36MP": 18.75,
+        "plusMinusPer36MP": 28.125
+    },
+    {
+        "gameDate": "12/3/19 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 6,
+        "pointsPer36MP": 4.2064,
+        "fieldGoalsAttemptedPer36MP": 2.1032,
+        "plusMinusPer36MP": 12.6193
+    },
+    {
+        "gameDate": "12/3/19 0:00",
+        "personId": 8687,
+        "points": 5,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -18,
+        "pointsPer36MP": 8.5987,
+        "fieldGoalsAttemptedPer36MP": 6.879,
+        "plusMinusPer36MP": -30.9554
+    },
+    {
+        "gameDate": "12/3/19 0:00",
+        "personId": 9757,
+        "points": 15,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 6,
+        "pointsPer36MP": 14.026,
+        "fieldGoalsAttemptedPer36MP": 11.2208,
+        "plusMinusPer36MP": 5.6104
+    },
+    {
+        "gameDate": "12/5/19 0:00",
+        "personId": 5696,
+        "points": 26,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": 6,
+        "pointsPer36MP": 24.5347,
+        "fieldGoalsAttemptedPer36MP": 22.6474,
+        "plusMinusPer36MP": 5.6619
+    },
+    {
+        "gameDate": "12/5/19 0:00",
+        "personId": 5698,
+        "points": 19,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": 14,
+        "pointsPer36MP": 20.0881,
+        "fieldGoalsAttemptedPer36MP": 11.63,
+        "plusMinusPer36MP": 14.8018
+    },
+    {
+        "gameDate": "12/5/19 0:00",
+        "personId": 6497,
+        "points": 25,
+        "fieldGoalsAttempted": 16,
+        "plusMinus": 14,
+        "pointsPer36MP": 24.2272,
+        "fieldGoalsAttemptedPer36MP": 15.5054,
+        "plusMinusPer36MP": 13.5672
+    },
+    {
+        "gameDate": "12/5/19 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 4,
+        "pointsPer36MP": 3.6766,
+        "fieldGoalsAttemptedPer36MP": 1.8383,
+        "plusMinusPer36MP": 7.3532
+    },
+    {
+        "gameDate": "12/5/19 0:00",
+        "personId": 8687,
+        "points": 8,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -3,
+        "pointsPer36MP": 16,
+        "fieldGoalsAttemptedPer36MP": 10,
+        "plusMinusPer36MP": -6
+    },
+    {
+        "gameDate": "12/5/19 0:00",
+        "personId": 9756,
+        "points": 5,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -11,
+        "pointsPer36MP": 6.9364,
+        "fieldGoalsAttemptedPer36MP": 8.3237,
+        "plusMinusPer36MP": -15.2601
+    },
+    {
+        "gameDate": "12/5/19 0:00",
+        "personId": 9757,
+        "points": 27,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": 1,
+        "pointsPer36MP": 22.8616,
+        "fieldGoalsAttemptedPer36MP": 15.2411,
+        "plusMinusPer36MP": 0.8467
+    },
+    {
+        "gameDate": "12/6/19 0:00",
+        "personId": 5696,
+        "points": 23,
+        "fieldGoalsAttempted": 17,
+        "plusMinus": -8,
+        "pointsPer36MP": 21.0955,
+        "fieldGoalsAttemptedPer36MP": 15.5924,
+        "plusMinusPer36MP": -7.3376
+    },
+    {
+        "gameDate": "12/6/19 0:00",
+        "personId": 5698,
+        "points": 15,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -3,
+        "pointsPer36MP": 16.6324,
+        "fieldGoalsAttemptedPer36MP": 12.1971,
+        "plusMinusPer36MP": -3.3265
+    },
+    {
+        "gameDate": "12/6/19 0:00",
+        "personId": 6497,
+        "points": 19,
+        "fieldGoalsAttempted": 20,
+        "plusMinus": -4,
+        "pointsPer36MP": 20.9602,
+        "fieldGoalsAttemptedPer36MP": 22.0633,
+        "plusMinusPer36MP": -4.4127
+    },
+    {
+        "gameDate": "12/6/19 0:00",
+        "personId": 8684,
+        "points": 6,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -6,
+        "pointsPer36MP": 11.011,
+        "fieldGoalsAttemptedPer36MP": 22.0221,
+        "plusMinusPer36MP": -11.011
+    },
+    {
+        "gameDate": "12/6/19 0:00",
+        "personId": 8685,
+        "points": 7,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 2,
+        "pointsPer36MP": 16.5445,
+        "fieldGoalsAttemptedPer36MP": 7.0905,
+        "plusMinusPer36MP": 4.727
+    },
+    {
+        "gameDate": "12/6/19 0:00",
+        "personId": 8687,
+        "points": 4,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -1,
+        "pointsPer36MP": 6.1017,
+        "fieldGoalsAttemptedPer36MP": 10.678,
+        "plusMinusPer36MP": -1.5254
+    },
+    {
+        "gameDate": "12/6/19 0:00",
+        "personId": 9756,
+        "points": 19,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": -10,
+        "pointsPer36MP": 22.3651,
+        "fieldGoalsAttemptedPer36MP": 16.4796,
+        "plusMinusPer36MP": -11.7711
+    },
+    {
+        "gameDate": "12/6/19 0:00",
+        "personId": 9757,
+        "points": 14,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -14,
+        "pointsPer36MP": 12.8626,
+        "fieldGoalsAttemptedPer36MP": 13.7814,
+        "plusMinusPer36MP": -12.8626
+    },
+    {
+        "gameDate": "12/8/19 0:00",
+        "personId": 5696,
+        "points": 20,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": -22,
+        "pointsPer36MP": 19.8712,
+        "fieldGoalsAttemptedPer36MP": 17.8841,
+        "plusMinusPer36MP": -21.8583
+    },
+    {
+        "gameDate": "12/8/19 0:00",
+        "personId": 5698,
+        "points": 14,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -32,
+        "pointsPer36MP": 16.3195,
+        "fieldGoalsAttemptedPer36MP": 17.4852,
+        "plusMinusPer36MP": -37.3017
+    },
+    {
+        "gameDate": "12/8/19 0:00",
+        "personId": 6497,
+        "points": 25,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": 4,
+        "pointsPer36MP": 31.6159,
+        "fieldGoalsAttemptedPer36MP": 16.4403,
+        "plusMinusPer36MP": 5.0585
+    },
+    {
+        "gameDate": "12/8/19 0:00",
+        "personId": 8684,
+        "points": 2,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -13,
+        "pointsPer36MP": 4.087,
+        "fieldGoalsAttemptedPer36MP": 10.2176,
+        "plusMinusPer36MP": -26.5658
+    },
+    {
+        "gameDate": "12/8/19 0:00",
+        "personId": 8685,
+        "points": 0,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -14,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 8.1509,
+        "plusMinusPer36MP": -38.0377
+    },
+    {
+        "gameDate": "12/8/19 0:00",
+        "personId": 8687,
+        "points": 22,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 5,
+        "pointsPer36MP": 22.532,
+        "fieldGoalsAttemptedPer36MP": 12.2902,
+        "plusMinusPer36MP": 5.1209
+    },
+    {
+        "gameDate": "12/8/19 0:00",
+        "personId": 9756,
+        "points": 7,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -30,
+        "pointsPer36MP": 14.3331,
+        "fieldGoalsAttemptedPer36MP": 6.1428,
+        "plusMinusPer36MP": -61.4276
+    },
+    {
+        "gameDate": "12/8/19 0:00",
+        "personId": 9757,
+        "points": 17,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": -34,
+        "pointsPer36MP": 16.3636,
+        "fieldGoalsAttemptedPer36MP": 13.4759,
+        "plusMinusPer36MP": -32.7273
+    },
+    {
+        "gameDate": "12/9/19 0:00",
+        "personId": 8684,
+        "points": 2,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 2,
+        "pointsPer36MP": 5.4477,
+        "fieldGoalsAttemptedPer36MP": 5.4477,
+        "plusMinusPer36MP": 5.4477
+    },
+    {
+        "gameDate": "12/10/19 0:00",
+        "personId": 5696,
+        "points": 16,
+        "fieldGoalsAttempted": 19,
+        "plusMinus": -36,
+        "pointsPer36MP": 15.6671,
+        "fieldGoalsAttemptedPer36MP": 18.6047,
+        "plusMinusPer36MP": -35.2509
+    },
+    {
+        "gameDate": "12/10/19 0:00",
+        "personId": 5698,
+        "points": 13,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -21,
+        "pointsPer36MP": 12.2513,
+        "fieldGoalsAttemptedPer36MP": 12.2513,
+        "plusMinusPer36MP": -19.7906
+    },
+    {
+        "gameDate": "12/10/19 0:00",
+        "personId": 6497,
+        "points": 32,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": 17,
+        "pointsPer36MP": 38.3361,
+        "fieldGoalsAttemptedPer36MP": 21.5641,
+        "plusMinusPer36MP": 20.3661
+    },
+    {
+        "gameDate": "12/10/19 0:00",
+        "personId": 8685,
+        "points": 0,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 6,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 7.5445,
+        "plusMinusPer36MP": 15.0891
+    },
+    {
+        "gameDate": "12/10/19 0:00",
+        "personId": 8687,
+        "points": 4,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": 6,
+        "pointsPer36MP": 5.1124,
+        "fieldGoalsAttemptedPer36MP": 5.1124,
+        "plusMinusPer36MP": 7.6686
+    },
+    {
+        "gameDate": "12/10/19 0:00",
+        "personId": 9756,
+        "points": 9,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -18,
+        "pointsPer36MP": 12.5907,
+        "fieldGoalsAttemptedPer36MP": 9.7927,
+        "plusMinusPer36MP": -25.1813
+    },
+    {
+        "gameDate": "12/10/19 0:00",
+        "personId": 9757,
+        "points": 18,
+        "fieldGoalsAttempted": 16,
+        "plusMinus": -30,
+        "pointsPer36MP": 19.7471,
+        "fieldGoalsAttemptedPer36MP": 17.5529,
+        "plusMinusPer36MP": -32.9118
+    },
+    {
+        "gameDate": "12/11/19 0:00",
+        "personId": 8684,
+        "points": 2,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -9,
+        "pointsPer36MP": 7.3469,
+        "fieldGoalsAttemptedPer36MP": 14.6939,
+        "plusMinusPer36MP": -33.0612
+    },
+    {
+        "gameDate": "12/13/19 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": 6,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": 63.2195
+    },
+    {
+        "gameDate": "12/14/19 0:00",
+        "personId": 5696,
+        "points": 29,
+        "fieldGoalsAttempted": 23,
+        "plusMinus": -26,
+        "pointsPer36MP": 30.7526,
+        "fieldGoalsAttemptedPer36MP": 24.39,
+        "plusMinusPer36MP": -27.5713
+    },
+    {
+        "gameDate": "12/14/19 0:00",
+        "personId": 5698,
+        "points": 14,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -20,
+        "pointsPer36MP": 17.9466,
+        "fieldGoalsAttemptedPer36MP": 14.1009,
+        "plusMinusPer36MP": -25.638
+    },
+    {
+        "gameDate": "12/14/19 0:00",
+        "personId": 6497,
+        "points": 9,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -9,
+        "pointsPer36MP": 12.7643,
+        "fieldGoalsAttemptedPer36MP": 12.7643,
+        "plusMinusPer36MP": -12.7643
+    },
+    {
+        "gameDate": "12/14/19 0:00",
+        "personId": 8684,
+        "points": 6,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 7,
+        "pointsPer36MP": 9.3648,
+        "fieldGoalsAttemptedPer36MP": 7.804,
+        "plusMinusPer36MP": 10.9256
+    },
+    {
+        "gameDate": "12/14/19 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -2,
+        "pointsPer36MP": 2.7551,
+        "fieldGoalsAttemptedPer36MP": 4.1327,
+        "plusMinusPer36MP": -2.7551
+    },
+    {
+        "gameDate": "12/14/19 0:00",
+        "personId": 8687,
+        "points": 16,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -12,
+        "pointsPer36MP": 18.671,
+        "fieldGoalsAttemptedPer36MP": 9.3355,
+        "plusMinusPer36MP": -14.0032
+    },
+    {
+        "gameDate": "12/14/19 0:00",
+        "personId": 8689,
+        "points": 3,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": -3,
+        "pointsPer36MP": 21.3158,
+        "fieldGoalsAttemptedPer36MP": 7.1053,
+        "plusMinusPer36MP": -21.3158
+    },
+    {
+        "gameDate": "12/14/19 0:00",
+        "personId": 9757,
+        "points": 10,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": -18,
+        "pointsPer36MP": 12.5581,
+        "fieldGoalsAttemptedPer36MP": 12.5581,
+        "plusMinusPer36MP": -22.6047
+    },
+    {
+        "gameDate": "12/16/19 0:00",
+        "personId": 5696,
+        "points": 35,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": 17,
+        "pointsPer36MP": 33.8725,
+        "fieldGoalsAttemptedPer36MP": 23.2268,
+        "plusMinusPer36MP": 16.4524
+    },
+    {
+        "gameDate": "12/16/19 0:00",
+        "personId": 5698,
+        "points": 10,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 0,
+        "pointsPer36MP": 16.4509,
+        "fieldGoalsAttemptedPer36MP": 14.8058,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "12/16/19 0:00",
+        "personId": 6497,
+        "points": 17,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": 19,
+        "pointsPer36MP": 17.0711,
+        "fieldGoalsAttemptedPer36MP": 11.046,
+        "plusMinusPer36MP": 19.0795
+    },
+    {
+        "gameDate": "12/16/19 0:00",
+        "personId": 8685,
+        "points": 9,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -4,
+        "pointsPer36MP": 16.5447,
+        "fieldGoalsAttemptedPer36MP": 9.1915,
+        "plusMinusPer36MP": -7.3532
+    },
+    {
+        "gameDate": "12/16/19 0:00",
+        "personId": 8687,
+        "points": 10,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 13,
+        "pointsPer36MP": 13.0751,
+        "fieldGoalsAttemptedPer36MP": 11.7676,
+        "plusMinusPer36MP": 16.9976
+    },
+    {
+        "gameDate": "12/16/19 0:00",
+        "personId": 8689,
+        "points": 4,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -3,
+        "pointsPer36MP": 13.3333,
+        "fieldGoalsAttemptedPer36MP": 6.6667,
+        "plusMinusPer36MP": -10
+    },
+    {
+        "gameDate": "12/16/19 0:00",
+        "personId": 9757,
+        "points": 7,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -4,
+        "pointsPer36MP": 14.809,
+        "fieldGoalsAttemptedPer36MP": 8.4623,
+        "plusMinusPer36MP": -8.4623
+    },
+    {
+        "gameDate": "12/17/19 0:00",
+        "personId": 8684,
+        "points": 3,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": -1,
+        "pointsPer36MP": 19.115,
+        "fieldGoalsAttemptedPer36MP": 6.3717,
+        "plusMinusPer36MP": -6.3717
+    },
+    {
+        "gameDate": "12/18/19 0:00",
+        "personId": 5696,
+        "points": 22,
+        "fieldGoalsAttempted": 19,
+        "plusMinus": -11,
+        "pointsPer36MP": 19.4674,
+        "fieldGoalsAttemptedPer36MP": 16.8128,
+        "plusMinusPer36MP": -9.7337
+    },
+    {
+        "gameDate": "12/18/19 0:00",
+        "personId": 5698,
+        "points": 6,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 13,
+        "pointsPer36MP": 6.4738,
+        "fieldGoalsAttemptedPer36MP": 10.7897,
+        "plusMinusPer36MP": 14.0267
+    },
+    {
+        "gameDate": "12/18/19 0:00",
+        "personId": 6497,
+        "points": 26,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -6,
+        "pointsPer36MP": 25.4809,
+        "fieldGoalsAttemptedPer36MP": 14.7005,
+        "plusMinusPer36MP": -5.8802
+    },
+    {
+        "gameDate": "12/18/19 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": -16,
+        "pointsPer36MP": 3.6829,
+        "fieldGoalsAttemptedPer36MP": 1.8414,
+        "plusMinusPer36MP": -29.4629
+    },
+    {
+        "gameDate": "12/18/19 0:00",
+        "personId": 8687,
+        "points": 10,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 5,
+        "pointsPer36MP": 16.3019,
+        "fieldGoalsAttemptedPer36MP": 13.0415,
+        "plusMinusPer36MP": 8.1509
+    },
+    {
+        "gameDate": "12/18/19 0:00",
+        "personId": 8689,
+        "points": 5,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 10,
+        "pointsPer36MP": 14.6143,
+        "fieldGoalsAttemptedPer36MP": 8.7686,
+        "plusMinusPer36MP": 29.2287
+    },
+    {
+        "gameDate": "12/20/19 0:00",
+        "personId": 5696,
+        "points": 37,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": -5,
+        "pointsPer36MP": 34.0665,
+        "fieldGoalsAttemptedPer36MP": 22.0972,
+        "plusMinusPer36MP": -4.6036
+    },
+    {
+        "gameDate": "12/20/19 0:00",
+        "personId": 5698,
+        "points": 26,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 1,
+        "pointsPer36MP": 31.5683,
+        "fieldGoalsAttemptedPer36MP": 10.9275,
+        "plusMinusPer36MP": 1.2142
+    },
+    {
+        "gameDate": "12/20/19 0:00",
+        "personId": 6497,
+        "points": 10,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": 3,
+        "pointsPer36MP": 9.4612,
+        "fieldGoalsAttemptedPer36MP": 14.1919,
+        "plusMinusPer36MP": 2.8384
+    },
+    {
+        "gameDate": "12/20/19 0:00",
+        "personId": 8685,
+        "points": 1,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -10,
+        "pointsPer36MP": 3.0423,
+        "fieldGoalsAttemptedPer36MP": 6.0845,
+        "plusMinusPer36MP": -30.4225
+    },
+    {
+        "gameDate": "12/20/19 0:00",
+        "personId": 8687,
+        "points": 11,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 3,
+        "pointsPer36MP": 14.6036,
+        "fieldGoalsAttemptedPer36MP": 13.276,
+        "plusMinusPer36MP": 3.9828
+    },
+    {
+        "gameDate": "12/20/19 0:00",
+        "personId": 8689,
+        "points": 6,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": 4,
+        "pointsPer36MP": 13.1041,
+        "fieldGoalsAttemptedPer36MP": 8.7361,
+        "plusMinusPer36MP": 8.7361
+    },
+    {
+        "gameDate": "12/21/19 0:00",
+        "personId": 5696,
+        "points": 36,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": -7,
+        "pointsPer36MP": 33.8234,
+        "fieldGoalsAttemptedPer36MP": 22.5489,
+        "plusMinusPer36MP": -6.5768
+    },
+    {
+        "gameDate": "12/21/19 0:00",
+        "personId": 5698,
+        "points": 0,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -15,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 12.579,
+        "plusMinusPer36MP": -26.9551
+    },
+    {
+        "gameDate": "12/21/19 0:00",
+        "personId": 6497,
+        "points": 9,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -6,
+        "pointsPer36MP": 8.6592,
+        "fieldGoalsAttemptedPer36MP": 12.5078,
+        "plusMinusPer36MP": -5.7728
+    },
+    {
+        "gameDate": "12/21/19 0:00",
+        "personId": 8684,
+        "points": 2,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -4,
+        "pointsPer36MP": 10.0232,
+        "fieldGoalsAttemptedPer36MP": 10.0232,
+        "plusMinusPer36MP": -20.0464
+    },
+    {
+        "gameDate": "12/21/19 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": -1,
+        "pointsPer36MP": 4.6602,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": -2.3301
+    },
+    {
+        "gameDate": "12/21/19 0:00",
+        "personId": 8687,
+        "points": 19,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -23,
+        "pointsPer36MP": 22.7117,
+        "fieldGoalsAttemptedPer36MP": 17.9303,
+        "plusMinusPer36MP": -27.4931
+    },
+    {
+        "gameDate": "12/21/19 0:00",
+        "personId": 8689,
+        "points": 2,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": -4,
+        "pointsPer36MP": 10.6667,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": -21.3333
+    },
+    {
+        "gameDate": "12/23/19 0:00",
+        "personId": 5696,
+        "points": 30,
+        "fieldGoalsAttempted": 38,
+        "plusMinus": -7,
+        "pointsPer36MP": 29.562,
+        "fieldGoalsAttemptedPer36MP": 37.4453,
+        "plusMinusPer36MP": -6.8978
+    },
+    {
+        "gameDate": "12/23/19 0:00",
+        "personId": 5698,
+        "points": 17,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": 1,
+        "pointsPer36MP": 24.3018,
+        "fieldGoalsAttemptedPer36MP": 20.0132,
+        "plusMinusPer36MP": 1.4295
+    },
+    {
+        "gameDate": "12/23/19 0:00",
+        "personId": 8685,
+        "points": 4,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 1,
+        "pointsPer36MP": 12.6131,
+        "fieldGoalsAttemptedPer36MP": 6.3066,
+        "plusMinusPer36MP": 3.1533
+    },
+    {
+        "gameDate": "12/23/19 0:00",
+        "personId": 8687,
+        "points": 26,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": 8,
+        "pointsPer36MP": 29.0083,
+        "fieldGoalsAttemptedPer36MP": 16.7355,
+        "plusMinusPer36MP": 8.9256
+    },
+    {
+        "gameDate": "12/23/19 0:00",
+        "personId": 8689,
+        "points": 6,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 9,
+        "pointsPer36MP": 11.6025,
+        "fieldGoalsAttemptedPer36MP": 9.6688,
+        "plusMinusPer36MP": 17.4038
+    },
+    {
+        "gameDate": "12/26/19 0:00",
+        "personId": 5696,
+        "points": 15,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": -25,
+        "pointsPer36MP": 22.5941,
+        "fieldGoalsAttemptedPer36MP": 21.0879,
+        "plusMinusPer36MP": -37.6569
+    },
+    {
+        "gameDate": "12/26/19 0:00",
+        "personId": 5698,
+        "points": 9,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -29,
+        "pointsPer36MP": 14.1794,
+        "fieldGoalsAttemptedPer36MP": 17.3304,
+        "plusMinusPer36MP": -45.6893
+    },
+    {
+        "gameDate": "12/26/19 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -10,
+        "pointsPer36MP": 9.8182,
+        "fieldGoalsAttemptedPer36MP": 19.6364,
+        "plusMinusPer36MP": -49.0909
+    },
+    {
+        "gameDate": "12/26/19 0:00",
+        "personId": 8687,
+        "points": 13,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": -13,
+        "pointsPer36MP": 16.9668,
+        "fieldGoalsAttemptedPer36MP": 18.2719,
+        "plusMinusPer36MP": -16.9668
+    },
+    {
+        "gameDate": "12/26/19 0:00",
+        "personId": 8689,
+        "points": 4,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -4,
+        "pointsPer36MP": 17.1429,
+        "fieldGoalsAttemptedPer36MP": 8.5714,
+        "plusMinusPer36MP": -17.1429
+    },
+    {
+        "gameDate": "12/28/19 0:00",
+        "personId": 5698,
+        "points": 13,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -9,
+        "pointsPer36MP": 21.8862,
+        "fieldGoalsAttemptedPer36MP": 20.2027,
+        "plusMinusPer36MP": -15.152
+    },
+    {
+        "gameDate": "12/28/19 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": 0,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "12/28/19 0:00",
+        "personId": 8685,
+        "points": 8,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -6,
+        "pointsPer36MP": 14.4,
+        "fieldGoalsAttemptedPer36MP": 9,
+        "plusMinusPer36MP": -10.8
+    },
+    {
+        "gameDate": "12/28/19 0:00",
+        "personId": 8687,
+        "points": 9,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": 14,
+        "pointsPer36MP": 8.579,
+        "fieldGoalsAttemptedPer36MP": 17.158,
+        "plusMinusPer36MP": 13.3451
+    },
+    {
+        "gameDate": "12/28/19 0:00",
+        "personId": 8689,
+        "points": 0,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -21,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 8.1664,
+        "plusMinusPer36MP": -85.7467
+    },
+    {
+        "gameDate": "12/30/19 0:00",
+        "personId": 5698,
+        "points": 19,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": 24,
+        "pointsPer36MP": 22.3895,
+        "fieldGoalsAttemptedPer36MP": 21.2111,
+        "plusMinusPer36MP": 28.2815
+    },
+    {
+        "gameDate": "12/30/19 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 12,
+        "pointsPer36MP": 4.6154,
+        "fieldGoalsAttemptedPer36MP": 4.6154,
+        "plusMinusPer36MP": 27.6923
+    },
+    {
+        "gameDate": "12/30/19 0:00",
+        "personId": 8687,
+        "points": 5,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -4,
+        "pointsPer36MP": 6.4057,
+        "fieldGoalsAttemptedPer36MP": 10.2491,
+        "plusMinusPer36MP": -5.1246
+    },
+    {
+        "gameDate": "12/30/19 0:00",
+        "personId": 8689,
+        "points": 28,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 22,
+        "pointsPer36MP": 34.56,
+        "fieldGoalsAttemptedPer36MP": 11.1086,
+        "plusMinusPer36MP": 27.1543
+    },
+    {
+        "gameDate": "12/31/19 0:00",
+        "personId": 8684,
+        "points": 2,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": 6,
+        "pointsPer36MP": 13.6709,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": 41.0127
+    },
+    {
+        "gameDate": "1/1/20 0:00",
+        "personId": 5696,
+        "points": 27,
+        "fieldGoalsAttempted": 20,
+        "plusMinus": -20,
+        "pointsPer36MP": 32.0969,
+        "fieldGoalsAttemptedPer36MP": 23.7755,
+        "plusMinusPer36MP": -23.7755
+    },
+    {
+        "gameDate": "1/1/20 0:00",
+        "personId": 5698,
+        "points": 10,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": -7,
+        "pointsPer36MP": 12.6538,
+        "fieldGoalsAttemptedPer36MP": 12.6538,
+        "plusMinusPer36MP": -8.8576
+    },
+    {
+        "gameDate": "1/1/20 0:00",
+        "personId": 8685,
+        "points": 4,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": -4,
+        "pointsPer36MP": 11.3834,
+        "fieldGoalsAttemptedPer36MP": 2.8458,
+        "plusMinusPer36MP": -11.3834
+    },
+    {
+        "gameDate": "1/1/20 0:00",
+        "personId": 8687,
+        "points": 14,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -9,
+        "pointsPer36MP": 17.8092,
+        "fieldGoalsAttemptedPer36MP": 15.265,
+        "plusMinusPer36MP": -11.4488
+    },
+    {
+        "gameDate": "1/1/20 0:00",
+        "personId": 8689,
+        "points": 10,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": 0,
+        "pointsPer36MP": 21.135,
+        "fieldGoalsAttemptedPer36MP": 8.454,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "1/2/20 0:00",
+        "personId": 8684,
+        "points": 5,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -1,
+        "pointsPer36MP": 10.8871,
+        "fieldGoalsAttemptedPer36MP": 4.3548,
+        "plusMinusPer36MP": -2.1774
+    },
+    {
+        "gameDate": "1/3/20 0:00",
+        "personId": 5698,
+        "points": 16,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": -16,
+        "pointsPer36MP": 17.3068,
+        "fieldGoalsAttemptedPer36MP": 15.1435,
+        "plusMinusPer36MP": -17.3068
+    },
+    {
+        "gameDate": "1/3/20 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 4,
+        "pointsPer36MP": 7.6596,
+        "fieldGoalsAttemptedPer36MP": 7.6596,
+        "plusMinusPer36MP": 15.3191
+    },
+    {
+        "gameDate": "1/3/20 0:00",
+        "personId": 8687,
+        "points": 10,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": -31,
+        "pointsPer36MP": 11.6254,
+        "fieldGoalsAttemptedPer36MP": 11.6254,
+        "plusMinusPer36MP": -36.0388
+    },
+    {
+        "gameDate": "1/3/20 0:00",
+        "personId": 8689,
+        "points": 18,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 1,
+        "pointsPer36MP": 26.2171,
+        "fieldGoalsAttemptedPer36MP": 13.1086,
+        "plusMinusPer36MP": 1.4565
+    },
+    {
+        "gameDate": "1/4/20 0:00",
+        "personId": 5698,
+        "points": 32,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": 18,
+        "pointsPer36MP": 33.816,
+        "fieldGoalsAttemptedPer36MP": 25.362,
+        "plusMinusPer36MP": 19.0215
+    },
+    {
+        "gameDate": "1/4/20 0:00",
+        "personId": 8684,
+        "points": 7,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 6,
+        "pointsPer36MP": 12.1348,
+        "fieldGoalsAttemptedPer36MP": 12.1348,
+        "plusMinusPer36MP": 10.4013
+    },
+    {
+        "gameDate": "1/4/20 0:00",
+        "personId": 8685,
+        "points": 15,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 11,
+        "pointsPer36MP": 25.4517,
+        "fieldGoalsAttemptedPer36MP": 10.1807,
+        "plusMinusPer36MP": 18.6646
+    },
+    {
+        "gameDate": "1/4/20 0:00",
+        "personId": 8687,
+        "points": 25,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 23,
+        "pointsPer36MP": 25.2101,
+        "fieldGoalsAttemptedPer36MP": 12.1008,
+        "plusMinusPer36MP": 23.1933
+    },
+    {
+        "gameDate": "1/4/20 0:00",
+        "personId": 8689,
+        "points": 7,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 26,
+        "pointsPer36MP": 12.2231,
+        "fieldGoalsAttemptedPer36MP": 10.477,
+        "plusMinusPer36MP": 45.4002
+    },
+    {
+        "gameDate": "1/5/20 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": 4,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": 17.0751
+    },
+    {
+        "gameDate": "1/6/20 0:00",
+        "personId": 5698,
+        "points": 27,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": 9,
+        "pointsPer36MP": 31.1555,
+        "fieldGoalsAttemptedPer36MP": 20.7703,
+        "plusMinusPer36MP": 10.3852
+    },
+    {
+        "gameDate": "1/6/20 0:00",
+        "personId": 8685,
+        "points": 10,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 5,
+        "pointsPer36MP": 11.2735,
+        "fieldGoalsAttemptedPer36MP": 9.0188,
+        "plusMinusPer36MP": 5.6367
+    },
+    {
+        "gameDate": "1/6/20 0:00",
+        "personId": 8687,
+        "points": 15,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 4,
+        "pointsPer36MP": 14.9861,
+        "fieldGoalsAttemptedPer36MP": 11.9889,
+        "plusMinusPer36MP": 3.9963
+    },
+    {
+        "gameDate": "1/6/20 0:00",
+        "personId": 8689,
+        "points": 0,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 2,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 9.0756,
+        "plusMinusPer36MP": 18.1513
+    },
+    {
+        "gameDate": "1/8/20 0:00",
+        "personId": 5698,
+        "points": 9,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -15,
+        "pointsPer36MP": 12.9169,
+        "fieldGoalsAttemptedPer36MP": 18.6578,
+        "plusMinusPer36MP": -21.5282
+    },
+    {
+        "gameDate": "1/8/20 0:00",
+        "personId": 8685,
+        "points": 6,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -15,
+        "pointsPer36MP": 6.7255,
+        "fieldGoalsAttemptedPer36MP": 5.6046,
+        "plusMinusPer36MP": -16.8137
+    },
+    {
+        "gameDate": "1/8/20 0:00",
+        "personId": 8687,
+        "points": 18,
+        "fieldGoalsAttempted": 17,
+        "plusMinus": -8,
+        "pointsPer36MP": 18.2793,
+        "fieldGoalsAttemptedPer36MP": 17.2638,
+        "plusMinusPer36MP": -8.1241
+    },
+    {
+        "gameDate": "1/10/20 0:00",
+        "personId": 5698,
+        "points": 10,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": 15,
+        "pointsPer36MP": 12.9808,
+        "fieldGoalsAttemptedPer36MP": 19.4712,
+        "plusMinusPer36MP": 19.4712
+    },
+    {
+        "gameDate": "1/10/20 0:00",
+        "personId": 6497,
+        "points": 14,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 21,
+        "pointsPer36MP": 23.8486,
+        "fieldGoalsAttemptedPer36MP": 20.4416,
+        "plusMinusPer36MP": 35.7729
+    },
+    {
+        "gameDate": "1/10/20 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": -4,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 8.7449,
+        "plusMinusPer36MP": -34.9798
+    },
+    {
+        "gameDate": "1/10/20 0:00",
+        "personId": 8685,
+        "points": 3,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -2,
+        "pointsPer36MP": 6.0223,
+        "fieldGoalsAttemptedPer36MP": 4.0149,
+        "plusMinusPer36MP": -4.0149
+    },
+    {
+        "gameDate": "1/10/20 0:00",
+        "personId": 8687,
+        "points": 18,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 13,
+        "pointsPer36MP": 18.6029,
+        "fieldGoalsAttemptedPer36MP": 12.4019,
+        "plusMinusPer36MP": 13.4354
+    },
+    {
+        "gameDate": "1/12/20 0:00",
+        "personId": 5696,
+        "points": 25,
+        "fieldGoalsAttempted": 25,
+        "plusMinus": -10,
+        "pointsPer36MP": 33.2922,
+        "fieldGoalsAttemptedPer36MP": 33.2922,
+        "plusMinusPer36MP": -13.3169
+    },
+    {
+        "gameDate": "1/12/20 0:00",
+        "personId": 5698,
+        "points": 9,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -7,
+        "pointsPer36MP": 11.5577,
+        "fieldGoalsAttemptedPer36MP": 15.4102,
+        "plusMinusPer36MP": -8.9893
+    },
+    {
+        "gameDate": "1/12/20 0:00",
+        "personId": 6497,
+        "points": 18,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -9,
+        "pointsPer36MP": 25.0839,
+        "fieldGoalsAttemptedPer36MP": 15.329,
+        "plusMinusPer36MP": -12.5419
+    },
+    {
+        "gameDate": "1/12/20 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 0,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 21.3861,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "1/12/20 0:00",
+        "personId": 8685,
+        "points": 4,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": -2,
+        "pointsPer36MP": 6.4962,
+        "fieldGoalsAttemptedPer36MP": 1.6241,
+        "plusMinusPer36MP": -3.2481
+    },
+    {
+        "gameDate": "1/12/20 0:00",
+        "personId": 8687,
+        "points": 9,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -5,
+        "pointsPer36MP": 10.4069,
+        "fieldGoalsAttemptedPer36MP": 8.0942,
+        "plusMinusPer36MP": -5.7816
+    },
+    {
+        "gameDate": "1/14/20 0:00",
+        "personId": 8684,
+        "points": 7,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -11,
+        "pointsPer36MP": 15.9494,
+        "fieldGoalsAttemptedPer36MP": 13.6709,
+        "plusMinusPer36MP": -25.0633
+    },
+    {
+        "gameDate": "1/15/20 0:00",
+        "personId": 5696,
+        "points": 23,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -15,
+        "pointsPer36MP": 30.2208,
+        "fieldGoalsAttemptedPer36MP": 17.0813,
+        "plusMinusPer36MP": -19.7092
+    },
+    {
+        "gameDate": "1/15/20 0:00",
+        "personId": 5698,
+        "points": 5,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 3,
+        "pointsPer36MP": 7.9705,
+        "fieldGoalsAttemptedPer36MP": 4.7823,
+        "plusMinusPer36MP": 4.7823
+    },
+    {
+        "gameDate": "1/15/20 0:00",
+        "personId": 6497,
+        "points": 12,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -4,
+        "pointsPer36MP": 16.6378,
+        "fieldGoalsAttemptedPer36MP": 20.7972,
+        "plusMinusPer36MP": -5.5459
+    },
+    {
+        "gameDate": "1/15/20 0:00",
+        "personId": 8685,
+        "points": 5,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 8,
+        "pointsPer36MP": 9.8271,
+        "fieldGoalsAttemptedPer36MP": 3.9308,
+        "plusMinusPer36MP": 15.7234
+    },
+    {
+        "gameDate": "1/15/20 0:00",
+        "personId": 8687,
+        "points": 0,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -5,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 6.2488,
+        "plusMinusPer36MP": -10.4147
+    },
+    {
+        "gameDate": "1/16/20 0:00",
+        "personId": 8684,
+        "points": 3,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 18,
+        "pointsPer36MP": 7.9607,
+        "fieldGoalsAttemptedPer36MP": 7.9607,
+        "plusMinusPer36MP": 47.7641
+    },
+    {
+        "gameDate": "1/17/20 0:00",
+        "personId": 5696,
+        "points": 14,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -3,
+        "pointsPer36MP": 21.913,
+        "fieldGoalsAttemptedPer36MP": 18.7826,
+        "plusMinusPer36MP": -4.6957
+    },
+    {
+        "gameDate": "1/17/20 0:00",
+        "personId": 5698,
+        "points": 12,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -18,
+        "pointsPer36MP": 13.6853,
+        "fieldGoalsAttemptedPer36MP": 10.264,
+        "plusMinusPer36MP": -20.528
+    },
+    {
+        "gameDate": "1/17/20 0:00",
+        "personId": 6497,
+        "points": 12,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -14,
+        "pointsPer36MP": 15.6427,
+        "fieldGoalsAttemptedPer36MP": 16.9463,
+        "plusMinusPer36MP": -18.2498
+    },
+    {
+        "gameDate": "1/17/20 0:00",
+        "personId": 8685,
+        "points": 17,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -13,
+        "pointsPer36MP": 21.324,
+        "fieldGoalsAttemptedPer36MP": 11.2892,
+        "plusMinusPer36MP": -16.3066
+    },
+    {
+        "gameDate": "1/17/20 0:00",
+        "personId": 8687,
+        "points": 22,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -23,
+        "pointsPer36MP": 30.1141,
+        "fieldGoalsAttemptedPer36MP": 17.7947,
+        "plusMinusPer36MP": -31.4829
+    },
+    {
+        "gameDate": "1/18/20 0:00",
+        "personId": 8684,
+        "points": 3,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 0,
+        "pointsPer36MP": 5.1716,
+        "fieldGoalsAttemptedPer36MP": 3.4477,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "1/20/20 0:00",
+        "personId": 5696,
+        "points": 29,
+        "fieldGoalsAttempted": 21,
+        "plusMinus": 8,
+        "pointsPer36MP": 31.2575,
+        "fieldGoalsAttemptedPer36MP": 22.6347,
+        "plusMinusPer36MP": 8.6228
+    },
+    {
+        "gameDate": "1/20/20 0:00",
+        "personId": 5698,
+        "points": 9,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 2,
+        "pointsPer36MP": 12.7727,
+        "fieldGoalsAttemptedPer36MP": 11.3535,
+        "plusMinusPer36MP": 2.8384
+    },
+    {
+        "gameDate": "1/20/20 0:00",
+        "personId": 6497,
+        "points": 8,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 6,
+        "pointsPer36MP": 12.5673,
+        "fieldGoalsAttemptedPer36MP": 7.8545,
+        "plusMinusPer36MP": 9.4255
+    },
+    {
+        "gameDate": "1/20/20 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 5,
+        "pointsPer36MP": 3.2408,
+        "fieldGoalsAttemptedPer36MP": 3.2408,
+        "plusMinusPer36MP": 8.102
+    },
+    {
+        "gameDate": "1/20/20 0:00",
+        "personId": 8687,
+        "points": 6,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 3,
+        "pointsPer36MP": 8.6285,
+        "fieldGoalsAttemptedPer36MP": 8.6285,
+        "plusMinusPer36MP": 4.3142
+    },
+    {
+        "gameDate": "1/21/20 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -9,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 7.1366,
+        "plusMinusPer36MP": -21.4097
+    },
+    {
+        "gameDate": "1/22/20 0:00",
+        "personId": 5696,
+        "points": 38,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": 4,
+        "pointsPer36MP": 35.7647,
+        "fieldGoalsAttemptedPer36MP": 22.5882,
+        "plusMinusPer36MP": 3.7647
+    },
+    {
+        "gameDate": "1/22/20 0:00",
+        "personId": 5698,
+        "points": 7,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -2,
+        "pointsPer36MP": 8.9209,
+        "fieldGoalsAttemptedPer36MP": 7.6465,
+        "plusMinusPer36MP": -2.5488
+    },
+    {
+        "gameDate": "1/22/20 0:00",
+        "personId": 6497,
+        "points": 24,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": -5,
+        "pointsPer36MP": 27.1272,
+        "fieldGoalsAttemptedPer36MP": 20.3454,
+        "plusMinusPer36MP": -5.6515
+    },
+    {
+        "gameDate": "1/22/20 0:00",
+        "personId": 8684,
+        "points": 3,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -2,
+        "pointsPer36MP": 5.5766,
+        "fieldGoalsAttemptedPer36MP": 9.2943,
+        "plusMinusPer36MP": -3.7177
+    },
+    {
+        "gameDate": "1/22/20 0:00",
+        "personId": 8685,
+        "points": 5,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -1,
+        "pointsPer36MP": 9.1062,
+        "fieldGoalsAttemptedPer36MP": 5.4637,
+        "plusMinusPer36MP": -1.8212
+    },
+    {
+        "gameDate": "1/22/20 0:00",
+        "personId": 8687,
+        "points": 9,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -16,
+        "pointsPer36MP": 15.8177,
+        "fieldGoalsAttemptedPer36MP": 14.0602,
+        "plusMinusPer36MP": -28.1204
+    },
+    {
+        "gameDate": "1/23/20 0:00",
+        "personId": 5696,
+        "points": 36,
+        "fieldGoalsAttempted": 22,
+        "plusMinus": 12,
+        "pointsPer36MP": 44.0317,
+        "fieldGoalsAttemptedPer36MP": 26.9083,
+        "plusMinusPer36MP": 14.6772
+    },
+    {
+        "gameDate": "1/23/20 0:00",
+        "personId": 5698,
+        "points": 17,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": 0,
+        "pointsPer36MP": 24,
+        "fieldGoalsAttemptedPer36MP": 19.7647,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "1/23/20 0:00",
+        "personId": 6497,
+        "points": 17,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 13,
+        "pointsPer36MP": 22.907,
+        "fieldGoalsAttemptedPer36MP": 13.4747,
+        "plusMinusPer36MP": 17.5172
+    },
+    {
+        "gameDate": "1/23/20 0:00",
+        "personId": 8685,
+        "points": 9,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 21,
+        "pointsPer36MP": 14.4107,
+        "fieldGoalsAttemptedPer36MP": 4.8036,
+        "plusMinusPer36MP": 33.6249
+    },
+    {
+        "gameDate": "1/23/20 0:00",
+        "personId": 8687,
+        "points": 8,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 0,
+        "pointsPer36MP": 11.2941,
+        "fieldGoalsAttemptedPer36MP": 7.0588,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "1/24/20 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -9,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 14.3522,
+        "plusMinusPer36MP": -64.5847
+    },
+    {
+        "gameDate": "1/26/20 0:00",
+        "personId": 5696,
+        "points": 40,
+        "fieldGoalsAttempted": 22,
+        "plusMinus": -13,
+        "pointsPer36MP": 37.435,
+        "fieldGoalsAttemptedPer36MP": 20.5893,
+        "plusMinusPer36MP": -12.1664
+    },
+    {
+        "gameDate": "1/26/20 0:00",
+        "personId": 5698,
+        "points": 10,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 3,
+        "pointsPer36MP": 12.3358,
+        "fieldGoalsAttemptedPer36MP": 9.8686,
+        "plusMinusPer36MP": 3.7007
+    },
+    {
+        "gameDate": "1/26/20 0:00",
+        "personId": 6497,
+        "points": 12,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -8,
+        "pointsPer36MP": 13.2177,
+        "fieldGoalsAttemptedPer36MP": 13.2177,
+        "plusMinusPer36MP": -8.8118
+    },
+    {
+        "gameDate": "1/26/20 0:00",
+        "personId": 8684,
+        "points": 2,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -6,
+        "pointsPer36MP": 7.6732,
+        "fieldGoalsAttemptedPer36MP": 11.5098,
+        "plusMinusPer36MP": -23.0195
+    },
+    {
+        "gameDate": "1/26/20 0:00",
+        "personId": 8685,
+        "points": 0,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 1,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 7.7698,
+        "plusMinusPer36MP": 7.7698
+    },
+    {
+        "gameDate": "1/26/20 0:00",
+        "personId": 8687,
+        "points": 19,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -4,
+        "pointsPer36MP": 21.5773,
+        "fieldGoalsAttemptedPer36MP": 12.4921,
+        "plusMinusPer36MP": -4.5426
+    },
+    {
+        "gameDate": "1/28/20 0:00",
+        "personId": 5696,
+        "points": 47,
+        "fieldGoalsAttempted": 31,
+        "plusMinus": -14,
+        "pointsPer36MP": 44.9422,
+        "fieldGoalsAttemptedPer36MP": 29.6427,
+        "plusMinusPer36MP": -13.387
+    },
+    {
+        "gameDate": "1/28/20 0:00",
+        "personId": 5698,
+        "points": 6,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -9,
+        "pointsPer36MP": 7.9852,
+        "fieldGoalsAttemptedPer36MP": 10.647,
+        "plusMinusPer36MP": -11.9778
+    },
+    {
+        "gameDate": "1/28/20 0:00",
+        "personId": 6497,
+        "points": 15,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -17,
+        "pointsPer36MP": 18.1513,
+        "fieldGoalsAttemptedPer36MP": 8.4706,
+        "plusMinusPer36MP": -20.5714
+    },
+    {
+        "gameDate": "1/28/20 0:00",
+        "personId": 8685,
+        "points": 7,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -8,
+        "pointsPer36MP": 14.7801,
+        "fieldGoalsAttemptedPer36MP": 8.4457,
+        "plusMinusPer36MP": -16.8915
+    },
+    {
+        "gameDate": "1/28/20 0:00",
+        "personId": 8687,
+        "points": 16,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": -13,
+        "pointsPer36MP": 16.6234,
+        "fieldGoalsAttemptedPer36MP": 10.3896,
+        "plusMinusPer36MP": -13.5065
+    },
+    {
+        "gameDate": "1/30/20 0:00",
+        "personId": 5696,
+        "points": 34,
+        "fieldGoalsAttempted": 16,
+        "plusMinus": 14,
+        "pointsPer36MP": 35.0382,
+        "fieldGoalsAttemptedPer36MP": 16.4885,
+        "plusMinusPer36MP": 14.4275
+    },
+    {
+        "gameDate": "1/30/20 0:00",
+        "personId": 5698,
+        "points": 11,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 9,
+        "pointsPer36MP": 15.5193,
+        "fieldGoalsAttemptedPer36MP": 12.6976,
+        "plusMinusPer36MP": 12.6976
+    },
+    {
+        "gameDate": "1/30/20 0:00",
+        "personId": 6497,
+        "points": 6,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 0,
+        "pointsPer36MP": 7.7005,
+        "fieldGoalsAttemptedPer36MP": 10.2674,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "1/30/20 0:00",
+        "personId": 8684,
+        "points": 3,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -7,
+        "pointsPer36MP": 10.5024,
+        "fieldGoalsAttemptedPer36MP": 7.0016,
+        "plusMinusPer36MP": -24.5057
+    },
+    {
+        "gameDate": "1/30/20 0:00",
+        "personId": 8685,
+        "points": 9,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 17,
+        "pointsPer36MP": 11.263,
+        "fieldGoalsAttemptedPer36MP": 8.7601,
+        "plusMinusPer36MP": 21.2746
+    },
+    {
+        "gameDate": "1/30/20 0:00",
+        "personId": 8687,
+        "points": 12,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 24,
+        "pointsPer36MP": 12.4795,
+        "fieldGoalsAttemptedPer36MP": 12.4795,
+        "plusMinusPer36MP": 24.9591
+    },
+    {
+        "gameDate": "2/1/20 0:00",
+        "personId": 5696,
+        "points": 34,
+        "fieldGoalsAttempted": 23,
+        "plusMinus": 7,
+        "pointsPer36MP": 34.0963,
+        "fieldGoalsAttemptedPer36MP": 23.0651,
+        "plusMinusPer36MP": 7.0198
+    },
+    {
+        "gameDate": "2/1/20 0:00",
+        "personId": 5698,
+        "points": 11,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 1,
+        "pointsPer36MP": 15.9047,
+        "fieldGoalsAttemptedPer36MP": 17.3506,
+        "plusMinusPer36MP": 1.4459
+    },
+    {
+        "gameDate": "2/1/20 0:00",
+        "personId": 6497,
+        "points": 11,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 13,
+        "pointsPer36MP": 13.1198,
+        "fieldGoalsAttemptedPer36MP": 8.349,
+        "plusMinusPer36MP": 15.5052
+    },
+    {
+        "gameDate": "2/1/20 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": -5,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": -80.597
+    },
+    {
+        "gameDate": "2/1/20 0:00",
+        "personId": 8685,
+        "points": 8,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -5,
+        "pointsPer36MP": 9.4478,
+        "fieldGoalsAttemptedPer36MP": 4.7239,
+        "plusMinusPer36MP": -5.9049
+    },
+    {
+        "gameDate": "2/1/20 0:00",
+        "personId": 8687,
+        "points": 8,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": 3,
+        "pointsPer36MP": 10.7396,
+        "fieldGoalsAttemptedPer36MP": 14.7669,
+        "plusMinusPer36MP": 4.0273
+    },
+    {
+        "gameDate": "2/3/20 0:00",
+        "personId": 5696,
+        "points": 43,
+        "fieldGoalsAttempted": 30,
+        "plusMinus": 4,
+        "pointsPer36MP": 39.3893,
+        "fieldGoalsAttemptedPer36MP": 27.4809,
+        "plusMinusPer36MP": 3.6641
+    },
+    {
+        "gameDate": "2/3/20 0:00",
+        "personId": 5698,
+        "points": 7,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": 2,
+        "pointsPer36MP": 10.731,
+        "fieldGoalsAttemptedPer36MP": 6.132,
+        "plusMinusPer36MP": 3.066
+    },
+    {
+        "gameDate": "2/3/20 0:00",
+        "personId": 6497,
+        "points": 19,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 11,
+        "pointsPer36MP": 21.3528,
+        "fieldGoalsAttemptedPer36MP": 10.1145,
+        "plusMinusPer36MP": 12.3621
+    },
+    {
+        "gameDate": "2/3/20 0:00",
+        "personId": 8685,
+        "points": 1,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -11,
+        "pointsPer36MP": 3.6797,
+        "fieldGoalsAttemptedPer36MP": 11.0392,
+        "plusMinusPer36MP": -40.477
+    },
+    {
+        "gameDate": "2/3/20 0:00",
+        "personId": 8687,
+        "points": 6,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -12,
+        "pointsPer36MP": 9.5434,
+        "fieldGoalsAttemptedPer36MP": 12.7246,
+        "plusMinusPer36MP": -19.0869
+    },
+    {
+        "gameDate": "2/3/20 0:00",
+        "personId": 9756,
+        "points": 8,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 5,
+        "pointsPer36MP": 23.4783,
+        "fieldGoalsAttemptedPer36MP": 14.6739,
+        "plusMinusPer36MP": 14.6739
+    },
+    {
+        "gameDate": "2/3/20 0:00",
+        "personId": 9757,
+        "points": 11,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -4,
+        "pointsPer36MP": 15.3093,
+        "fieldGoalsAttemptedPer36MP": 11.134,
+        "plusMinusPer36MP": -5.567
+    },
+    {
+        "gameDate": "2/5/20 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": 2,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": 43.2
+    },
+    {
+        "gameDate": "2/7/20 0:00",
+        "personId": 5696,
+        "points": 29,
+        "fieldGoalsAttempted": 28,
+        "plusMinus": 0,
+        "pointsPer36MP": 27.0361,
+        "fieldGoalsAttemptedPer36MP": 26.1038,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "2/7/20 0:00",
+        "personId": 5698,
+        "points": 14,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -11,
+        "pointsPer36MP": 16.9611,
+        "fieldGoalsAttemptedPer36MP": 13.3266,
+        "plusMinusPer36MP": -13.3266
+    },
+    {
+        "gameDate": "2/7/20 0:00",
+        "personId": 6497,
+        "points": 20,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 13,
+        "pointsPer36MP": 23.0646,
+        "fieldGoalsAttemptedPer36MP": 13.8388,
+        "plusMinusPer36MP": 14.992
+    },
+    {
+        "gameDate": "2/7/20 0:00",
+        "personId": 8685,
+        "points": 3,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -1,
+        "pointsPer36MP": 4.457,
+        "fieldGoalsAttemptedPer36MP": 5.9426,
+        "plusMinusPer36MP": -1.4857
+    },
+    {
+        "gameDate": "2/7/20 0:00",
+        "personId": 8687,
+        "points": 10,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 3,
+        "pointsPer36MP": 12.9419,
+        "fieldGoalsAttemptedPer36MP": 6.4709,
+        "plusMinusPer36MP": 3.8826
+    },
+    {
+        "gameDate": "2/7/20 0:00",
+        "personId": 8689,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": 0,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "2/7/20 0:00",
+        "personId": 9756,
+        "points": 6,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 5,
+        "pointsPer36MP": 11.8899,
+        "fieldGoalsAttemptedPer36MP": 9.9083,
+        "plusMinusPer36MP": 9.9083
+    },
+    {
+        "gameDate": "2/7/20 0:00",
+        "personId": 9757,
+        "points": 17,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -7,
+        "pointsPer36MP": 21.3253,
+        "fieldGoalsAttemptedPer36MP": 15.0531,
+        "plusMinusPer36MP": -8.781
+    },
+    {
+        "gameDate": "2/9/20 0:00",
+        "personId": 5696,
+        "points": 26,
+        "fieldGoalsAttempted": 25,
+        "plusMinus": 5,
+        "pointsPer36MP": 27.5024,
+        "fieldGoalsAttemptedPer36MP": 26.4447,
+        "plusMinusPer36MP": 5.2889
+    },
+    {
+        "gameDate": "2/9/20 0:00",
+        "personId": 5698,
+        "points": 4,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -3,
+        "pointsPer36MP": 5.0408,
+        "fieldGoalsAttemptedPer36MP": 10.0817,
+        "plusMinusPer36MP": -3.7806
+    },
+    {
+        "gameDate": "2/9/20 0:00",
+        "personId": 6497,
+        "points": 15,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -9,
+        "pointsPer36MP": 17.0079,
+        "fieldGoalsAttemptedPer36MP": 14.7402,
+        "plusMinusPer36MP": -10.2047
+    },
+    {
+        "gameDate": "2/9/20 0:00",
+        "personId": 8684,
+        "points": 5,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -12,
+        "pointsPer36MP": 11.3804,
+        "fieldGoalsAttemptedPer36MP": 15.9326,
+        "plusMinusPer36MP": -27.313
+    },
+    {
+        "gameDate": "2/9/20 0:00",
+        "personId": 8685,
+        "points": 4,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 2,
+        "pointsPer36MP": 8.4047,
+        "fieldGoalsAttemptedPer36MP": 6.3035,
+        "plusMinusPer36MP": 4.2023
+    },
+    {
+        "gameDate": "2/9/20 0:00",
+        "personId": 8687,
+        "points": 6,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 2,
+        "pointsPer36MP": 8.9133,
+        "fieldGoalsAttemptedPer36MP": 11.8845,
+        "plusMinusPer36MP": 2.9711
+    },
+    {
+        "gameDate": "2/9/20 0:00",
+        "personId": 9756,
+        "points": 19,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -11,
+        "pointsPer36MP": 28.4014,
+        "fieldGoalsAttemptedPer36MP": 16.4429,
+        "plusMinusPer36MP": -16.4429
+    },
+    {
+        "gameDate": "2/9/20 0:00",
+        "personId": 9757,
+        "points": 12,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -5,
+        "pointsPer36MP": 17.3031,
+        "fieldGoalsAttemptedPer36MP": 18.745,
+        "plusMinusPer36MP": -7.2096
+    },
+    {
+        "gameDate": "2/11/20 0:00",
+        "personId": 5696,
+        "points": 30,
+        "fieldGoalsAttempted": 23,
+        "plusMinus": 18,
+        "pointsPer36MP": 31.7491,
+        "fieldGoalsAttemptedPer36MP": 24.341,
+        "plusMinusPer36MP": 19.0495
+    },
+    {
+        "gameDate": "2/11/20 0:00",
+        "personId": 5698,
+        "points": 10,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 26,
+        "pointsPer36MP": 12.766,
+        "fieldGoalsAttemptedPer36MP": 10.2128,
+        "plusMinusPer36MP": 33.1915
+    },
+    {
+        "gameDate": "2/11/20 0:00",
+        "personId": 6497,
+        "points": 10,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -12,
+        "pointsPer36MP": 14.744,
+        "fieldGoalsAttemptedPer36MP": 16.2184,
+        "plusMinusPer36MP": -17.6928
+    },
+    {
+        "gameDate": "2/11/20 0:00",
+        "personId": 8684,
+        "points": 4,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -7,
+        "pointsPer36MP": 8.0156,
+        "fieldGoalsAttemptedPer36MP": 4.0078,
+        "plusMinusPer36MP": -14.0273
+    },
+    {
+        "gameDate": "2/11/20 0:00",
+        "personId": 8685,
+        "points": 8,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": 25,
+        "pointsPer36MP": 14.6939,
+        "fieldGoalsAttemptedPer36MP": 7.3469,
+        "plusMinusPer36MP": 45.9184
+    },
+    {
+        "gameDate": "2/11/20 0:00",
+        "personId": 8687,
+        "points": 2,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -8,
+        "pointsPer36MP": 4.4444,
+        "fieldGoalsAttemptedPer36MP": 11.1111,
+        "plusMinusPer36MP": -17.7778
+    },
+    {
+        "gameDate": "2/11/20 0:00",
+        "personId": 9756,
+        "points": 12,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -3,
+        "pointsPer36MP": 16.261,
+        "fieldGoalsAttemptedPer36MP": 9.4856,
+        "plusMinusPer36MP": -4.0652
+    },
+    {
+        "gameDate": "2/11/20 0:00",
+        "personId": 9757,
+        "points": 20,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 20,
+        "pointsPer36MP": 22.6415,
+        "fieldGoalsAttemptedPer36MP": 13.5849,
+        "plusMinusPer36MP": 22.6415
+    },
+    {
+        "gameDate": "2/12/20 0:00",
+        "personId": 5696,
+        "points": 30,
+        "fieldGoalsAttempted": 23,
+        "plusMinus": 16,
+        "pointsPer36MP": 31.9055,
+        "fieldGoalsAttemptedPer36MP": 24.4609,
+        "plusMinusPer36MP": 17.0162
+    },
+    {
+        "gameDate": "2/12/20 0:00",
+        "personId": 5698,
+        "points": 8,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 9,
+        "pointsPer36MP": 9.9884,
+        "fieldGoalsAttemptedPer36MP": 11.237,
+        "plusMinusPer36MP": 11.237
+    },
+    {
+        "gameDate": "2/12/20 0:00",
+        "personId": 6497,
+        "points": 16,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 13,
+        "pointsPer36MP": 19.1893,
+        "fieldGoalsAttemptedPer36MP": 10.794,
+        "plusMinusPer36MP": 15.5913
+    },
+    {
+        "gameDate": "2/12/20 0:00",
+        "personId": 8684,
+        "points": 5,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 9,
+        "pointsPer36MP": 8.5375,
+        "fieldGoalsAttemptedPer36MP": 10.2451,
+        "plusMinusPer36MP": 15.3676
+    },
+    {
+        "gameDate": "2/12/20 0:00",
+        "personId": 8685,
+        "points": 13,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 7,
+        "pointsPer36MP": 32.7273,
+        "fieldGoalsAttemptedPer36MP": 17.6224,
+        "plusMinusPer36MP": 17.6224
+    },
+    {
+        "gameDate": "2/12/20 0:00",
+        "personId": 8687,
+        "points": 11,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -3,
+        "pointsPer36MP": 19.6201,
+        "fieldGoalsAttemptedPer36MP": 12.4855,
+        "plusMinusPer36MP": -5.3509
+    },
+    {
+        "gameDate": "2/12/20 0:00",
+        "personId": 9756,
+        "points": 6,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 8,
+        "pointsPer36MP": 13.0514,
+        "fieldGoalsAttemptedPer36MP": 10.8761,
+        "plusMinusPer36MP": 17.4018
+    },
+    {
+        "gameDate": "2/12/20 0:00",
+        "personId": 9757,
+        "points": 8,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 14,
+        "pointsPer36MP": 12.4675,
+        "fieldGoalsAttemptedPer36MP": 10.9091,
+        "plusMinusPer36MP": 21.8182
+    },
+    {
+        "gameDate": "2/21/20 0:00",
+        "personId": 5696,
+        "points": 26,
+        "fieldGoalsAttempted": 28,
+        "plusMinus": -15,
+        "pointsPer36MP": 27.2754,
+        "fieldGoalsAttemptedPer36MP": 29.3735,
+        "plusMinusPer36MP": -15.7358
+    },
+    {
+        "gameDate": "2/21/20 0:00",
+        "personId": 5698,
+        "points": 5,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -7,
+        "pointsPer36MP": 6.0606,
+        "fieldGoalsAttemptedPer36MP": 14.5455,
+        "plusMinusPer36MP": -8.4848
+    },
+    {
+        "gameDate": "2/21/20 0:00",
+        "personId": 6497,
+        "points": 10,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -8,
+        "pointsPer36MP": 13.8196,
+        "fieldGoalsAttemptedPer36MP": 9.6737,
+        "plusMinusPer36MP": -11.0557
+    },
+    {
+        "gameDate": "2/21/20 0:00",
+        "personId": 8684,
+        "points": 9,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 6,
+        "pointsPer36MP": 23.5067,
+        "fieldGoalsAttemptedPer36MP": 20.8948,
+        "plusMinusPer36MP": 15.6711
+    },
+    {
+        "gameDate": "2/21/20 0:00",
+        "personId": 8685,
+        "points": 5,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 3,
+        "pointsPer36MP": 9.068,
+        "fieldGoalsAttemptedPer36MP": 5.4408,
+        "plusMinusPer36MP": 5.4408
+    },
+    {
+        "gameDate": "2/21/20 0:00",
+        "personId": 8687,
+        "points": 11,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 7,
+        "pointsPer36MP": 19.9664,
+        "fieldGoalsAttemptedPer36MP": 18.1513,
+        "plusMinusPer36MP": 12.7059
+    },
+    {
+        "gameDate": "2/21/20 0:00",
+        "personId": 9756,
+        "points": 4,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -5,
+        "pointsPer36MP": 9.2803,
+        "fieldGoalsAttemptedPer36MP": 16.2406,
+        "plusMinusPer36MP": -11.6004
+    },
+    {
+        "gameDate": "2/21/20 0:00",
+        "personId": 9757,
+        "points": 17,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -8,
+        "pointsPer36MP": 20.2873,
+        "fieldGoalsAttemptedPer36MP": 15.5138,
+        "plusMinusPer36MP": -9.547
+    },
+    {
+        "gameDate": "2/23/20 0:00",
+        "personId": 5696,
+        "points": 53,
+        "fieldGoalsAttempted": 27,
+        "plusMinus": -4,
+        "pointsPer36MP": 48.4674,
+        "fieldGoalsAttemptedPer36MP": 24.6909,
+        "plusMinusPer36MP": -3.6579
+    },
+    {
+        "gameDate": "2/23/20 0:00",
+        "personId": 5698,
+        "points": 10,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -1,
+        "pointsPer36MP": 13.1949,
+        "fieldGoalsAttemptedPer36MP": 6.5974,
+        "plusMinusPer36MP": -1.3195
+    },
+    {
+        "gameDate": "2/23/20 0:00",
+        "personId": 6497,
+        "points": 22,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": 0,
+        "pointsPer36MP": 21.3861,
+        "fieldGoalsAttemptedPer36MP": 14.5815,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "2/23/20 0:00",
+        "personId": 8684,
+        "points": 2,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -16,
+        "pointsPer36MP": 4.4399,
+        "fieldGoalsAttemptedPer36MP": 11.0997,
+        "plusMinusPer36MP": -35.519
+    },
+    {
+        "gameDate": "2/23/20 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 2,
+        "pointsPer36MP": 4.742,
+        "fieldGoalsAttemptedPer36MP": 7.1131,
+        "plusMinusPer36MP": 4.742
+    },
+    {
+        "gameDate": "2/23/20 0:00",
+        "personId": 8687,
+        "points": 7,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -9,
+        "pointsPer36MP": 11.8217,
+        "fieldGoalsAttemptedPer36MP": 6.7553,
+        "plusMinusPer36MP": -15.1994
+    },
+    {
+        "gameDate": "2/23/20 0:00",
+        "personId": 9756,
+        "points": 4,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 0,
+        "pointsPer36MP": 9.5893,
+        "fieldGoalsAttemptedPer36MP": 4.7947,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "2/23/20 0:00",
+        "personId": 9757,
+        "points": 10,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 4,
+        "pointsPer36MP": 12.6316,
+        "fieldGoalsAttemptedPer36MP": 10.1053,
+        "plusMinusPer36MP": 5.0526
+    },
+    {
+        "gameDate": "2/24/20 0:00",
+        "personId": 5696,
+        "points": 55,
+        "fieldGoalsAttempted": 33,
+        "plusMinus": -4,
+        "pointsPer36MP": 48.2731,
+        "fieldGoalsAttemptedPer36MP": 28.9638,
+        "plusMinusPer36MP": -3.5108
+    },
+    {
+        "gameDate": "2/24/20 0:00",
+        "personId": 5698,
+        "points": 13,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -8,
+        "pointsPer36MP": 18.0579,
+        "fieldGoalsAttemptedPer36MP": 15.2797,
+        "plusMinusPer36MP": -11.1125
+    },
+    {
+        "gameDate": "2/24/20 0:00",
+        "personId": 8684,
+        "points": 5,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 1,
+        "pointsPer36MP": 10.1695,
+        "fieldGoalsAttemptedPer36MP": 10.1695,
+        "plusMinusPer36MP": 2.0339
+    },
+    {
+        "gameDate": "2/24/20 0:00",
+        "personId": 8685,
+        "points": 0,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -17,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 2.9981,
+        "plusMinusPer36MP": -25.4841
+    },
+    {
+        "gameDate": "2/24/20 0:00",
+        "personId": 8687,
+        "points": 4,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 9,
+        "pointsPer36MP": 6.8085,
+        "fieldGoalsAttemptedPer36MP": 15.3191,
+        "plusMinusPer36MP": 15.3191
+    },
+    {
+        "gameDate": "2/24/20 0:00",
+        "personId": 9756,
+        "points": 8,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 11,
+        "pointsPer36MP": 10.1171,
+        "fieldGoalsAttemptedPer36MP": 3.7939,
+        "plusMinusPer36MP": 13.911
+    },
+    {
+        "gameDate": "2/24/20 0:00",
+        "personId": 9757,
+        "points": 12,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": 0,
+        "pointsPer36MP": 9.3709,
+        "fieldGoalsAttemptedPer36MP": 9.3709,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "2/26/20 0:00",
+        "personId": 5696,
+        "points": 30,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": 8,
+        "pointsPer36MP": 27.8112,
+        "fieldGoalsAttemptedPer36MP": 22.2489,
+        "plusMinusPer36MP": 7.4163
+    },
+    {
+        "gameDate": "2/26/20 0:00",
+        "personId": 5698,
+        "points": 5,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 4,
+        "pointsPer36MP": 7.7531,
+        "fieldGoalsAttemptedPer36MP": 13.9555,
+        "plusMinusPer36MP": 6.2024
+    },
+    {
+        "gameDate": "2/26/20 0:00",
+        "personId": 6497,
+        "points": 14,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": 3,
+        "pointsPer36MP": 17.027,
+        "fieldGoalsAttemptedPer36MP": 15.8108,
+        "plusMinusPer36MP": 3.6486
+    },
+    {
+        "gameDate": "2/26/20 0:00",
+        "personId": 8684,
+        "points": 9,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 6,
+        "pointsPer36MP": 16.2135,
+        "fieldGoalsAttemptedPer36MP": 14.412,
+        "plusMinusPer36MP": 10.809
+    },
+    {
+        "gameDate": "2/26/20 0:00",
+        "personId": 8685,
+        "points": 3,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 6,
+        "pointsPer36MP": 6.48,
+        "fieldGoalsAttemptedPer36MP": 6.48,
+        "plusMinusPer36MP": 12.96
+    },
+    {
+        "gameDate": "2/26/20 0:00",
+        "personId": 8687,
+        "points": 7,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -8,
+        "pointsPer36MP": 19.6619,
+        "fieldGoalsAttemptedPer36MP": 11.2354,
+        "plusMinusPer36MP": -22.4707
+    },
+    {
+        "gameDate": "2/26/20 0:00",
+        "personId": 9756,
+        "points": 4,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 2,
+        "pointsPer36MP": 11.0345,
+        "fieldGoalsAttemptedPer36MP": 2.7586,
+        "plusMinusPer36MP": 5.5172
+    },
+    {
+        "gameDate": "2/26/20 0:00",
+        "personId": 9757,
+        "points": 17,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 0,
+        "pointsPer36MP": 22.6807,
+        "fieldGoalsAttemptedPer36MP": 13.3416,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "2/28/20 0:00",
+        "personId": 5696,
+        "points": 42,
+        "fieldGoalsAttempted": 33,
+        "plusMinus": -5,
+        "pointsPer36MP": 37.3333,
+        "fieldGoalsAttemptedPer36MP": 29.3333,
+        "plusMinusPer36MP": -4.4444
+    },
+    {
+        "gameDate": "2/28/20 0:00",
+        "personId": 5698,
+        "points": 4,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -13,
+        "pointsPer36MP": 6.5257,
+        "fieldGoalsAttemptedPer36MP": 8.1571,
+        "plusMinusPer36MP": -21.2085
+    },
+    {
+        "gameDate": "2/28/20 0:00",
+        "personId": 6497,
+        "points": 7,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -13,
+        "pointsPer36MP": 8.9046,
+        "fieldGoalsAttemptedPer36MP": 10.1767,
+        "plusMinusPer36MP": -16.5371
+    },
+    {
+        "gameDate": "2/28/20 0:00",
+        "personId": 8684,
+        "points": 5,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -22,
+        "pointsPer36MP": 8.2005,
+        "fieldGoalsAttemptedPer36MP": 9.8405,
+        "plusMinusPer36MP": -36.082
+    },
+    {
+        "gameDate": "2/28/20 0:00",
+        "personId": 8685,
+        "points": 0,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 7,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 5.6842,
+        "plusMinusPer36MP": 19.8947
+    },
+    {
+        "gameDate": "2/28/20 0:00",
+        "personId": 8687,
+        "points": 11,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -7,
+        "pointsPer36MP": 21.3477,
+        "fieldGoalsAttemptedPer36MP": 13.5849,
+        "plusMinusPer36MP": -13.5849
+    },
+    {
+        "gameDate": "2/28/20 0:00",
+        "personId": 9756,
+        "points": 2,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": 3,
+        "pointsPer36MP": 10.5366,
+        "fieldGoalsAttemptedPer36MP": 5.2683,
+        "plusMinusPer36MP": 15.8049
+    },
+    {
+        "gameDate": "2/28/20 0:00",
+        "personId": 9757,
+        "points": 15,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 0,
+        "pointsPer36MP": 16.8224,
+        "fieldGoalsAttemptedPer36MP": 11.215,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "3/1/20 0:00",
+        "personId": 5696,
+        "points": 34,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": 22,
+        "pointsPer36MP": 34.8222,
+        "fieldGoalsAttemptedPer36MP": 24.5804,
+        "plusMinusPer36MP": 22.532
+    },
+    {
+        "gameDate": "3/1/20 0:00",
+        "personId": 5698,
+        "points": 6,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 1,
+        "pointsPer36MP": 10.4854,
+        "fieldGoalsAttemptedPer36MP": 15.7282,
+        "plusMinusPer36MP": 1.7476
+    },
+    {
+        "gameDate": "3/1/20 0:00",
+        "personId": 6497,
+        "points": 29,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": 3,
+        "pointsPer36MP": 34.4176,
+        "fieldGoalsAttemptedPer36MP": 16.6154,
+        "plusMinusPer36MP": 3.5604
+    },
+    {
+        "gameDate": "3/1/20 0:00",
+        "personId": 8684,
+        "points": 6,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -12,
+        "pointsPer36MP": 9.9539,
+        "fieldGoalsAttemptedPer36MP": 8.2949,
+        "plusMinusPer36MP": -19.9078
+    },
+    {
+        "gameDate": "3/1/20 0:00",
+        "personId": 8685,
+        "points": 6,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": 15,
+        "pointsPer36MP": 10.0699,
+        "fieldGoalsAttemptedPer36MP": 6.7133,
+        "plusMinusPer36MP": 25.1748
+    },
+    {
+        "gameDate": "3/1/20 0:00",
+        "personId": 8687,
+        "points": 2,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -4,
+        "pointsPer36MP": 4.3287,
+        "fieldGoalsAttemptedPer36MP": 8.6573,
+        "plusMinusPer36MP": -8.6573
+    },
+    {
+        "gameDate": "3/1/20 0:00",
+        "personId": 9756,
+        "points": 0,
+        "fieldGoalsAttempted": 0,
+        "plusMinus": -3,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 0,
+        "plusMinusPer36MP": -9.878
+    },
+    {
+        "gameDate": "3/1/20 0:00",
+        "personId": 9757,
+        "points": 15,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 12,
+        "pointsPer36MP": 18.1309,
+        "fieldGoalsAttemptedPer36MP": 9.6698,
+        "plusMinusPer36MP": 14.5048
+    },
+    {
+        "gameDate": "3/3/20 0:00",
+        "personId": 5696,
+        "points": 35,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": -5,
+        "pointsPer36MP": 32.4185,
+        "fieldGoalsAttemptedPer36MP": 22.2298,
+        "plusMinusPer36MP": -4.6312
+    },
+    {
+        "gameDate": "3/3/20 0:00",
+        "personId": 5698,
+        "points": 13,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -11,
+        "pointsPer36MP": 22.8478,
+        "fieldGoalsAttemptedPer36MP": 10.5452,
+        "plusMinusPer36MP": -19.3328
+    },
+    {
+        "gameDate": "3/3/20 0:00",
+        "personId": 6497,
+        "points": 18,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -9,
+        "pointsPer36MP": 22.448,
+        "fieldGoalsAttemptedPer36MP": 16.2125,
+        "plusMinusPer36MP": -11.224
+    },
+    {
+        "gameDate": "3/3/20 0:00",
+        "personId": 8684,
+        "points": 10,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 22,
+        "pointsPer36MP": 11.98,
+        "fieldGoalsAttemptedPer36MP": 9.584,
+        "plusMinusPer36MP": 26.3561
+    },
+    {
+        "gameDate": "3/3/20 0:00",
+        "personId": 8685,
+        "points": 2,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": -15,
+        "pointsPer36MP": 7.513,
+        "fieldGoalsAttemptedPer36MP": 3.7565,
+        "plusMinusPer36MP": -56.3478
+    },
+    {
+        "gameDate": "3/3/20 0:00",
+        "personId": 8687,
+        "points": 5,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -13,
+        "pointsPer36MP": 11.9074,
+        "fieldGoalsAttemptedPer36MP": 14.2889,
+        "plusMinusPer36MP": -30.9592
+    },
+    {
+        "gameDate": "3/3/20 0:00",
+        "personId": 9756,
+        "points": 2,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -8,
+        "pointsPer36MP": 5.2555,
+        "fieldGoalsAttemptedPer36MP": 7.8832,
+        "plusMinusPer36MP": -21.0219
+    },
+    {
+        "gameDate": "3/3/20 0:00",
+        "personId": 9757,
+        "points": 20,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 2,
+        "pointsPer36MP": 23.8161,
+        "fieldGoalsAttemptedPer36MP": 10.7172,
+        "plusMinusPer36MP": 2.3816
+    },
+    {
+        "gameDate": "3/4/20 0:00",
+        "personId": 5696,
+        "points": 29,
+        "fieldGoalsAttempted": 29,
+        "plusMinus": -19,
+        "pointsPer36MP": 27.8029,
+        "fieldGoalsAttemptedPer36MP": 27.8029,
+        "plusMinusPer36MP": -18.2157
+    },
+    {
+        "gameDate": "3/4/20 0:00",
+        "personId": 6497,
+        "points": 21,
+        "fieldGoalsAttempted": 16,
+        "plusMinus": 1,
+        "pointsPer36MP": 26.054,
+        "fieldGoalsAttemptedPer36MP": 19.8507,
+        "plusMinusPer36MP": 1.2407
+    },
+    {
+        "gameDate": "3/4/20 0:00",
+        "personId": 8684,
+        "points": 5,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -16,
+        "pointsPer36MP": 6.9409,
+        "fieldGoalsAttemptedPer36MP": 12.4936,
+        "plusMinusPer36MP": -22.2108
+    },
+    {
+        "gameDate": "3/4/20 0:00",
+        "personId": 8685,
+        "points": 7,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": 8,
+        "pointsPer36MP": 9.0107,
+        "fieldGoalsAttemptedPer36MP": 6.4362,
+        "plusMinusPer36MP": 10.298
+    },
+    {
+        "gameDate": "3/4/20 0:00",
+        "personId": 8687,
+        "points": 9,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -5,
+        "pointsPer36MP": 16.0528,
+        "fieldGoalsAttemptedPer36MP": 14.2692,
+        "plusMinusPer36MP": -8.9182
+    },
+    {
+        "gameDate": "3/4/20 0:00",
+        "personId": 9756,
+        "points": 9,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -20,
+        "pointsPer36MP": 17.1278,
+        "fieldGoalsAttemptedPer36MP": 15.2247,
+        "plusMinusPer36MP": -38.0617
+    },
+    {
+        "gameDate": "3/4/20 0:00",
+        "personId": 9757,
+        "points": 11,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -16,
+        "pointsPer36MP": 13.8866,
+        "fieldGoalsAttemptedPer36MP": 13.8866,
+        "plusMinusPer36MP": -20.1987
+    },
+    {
+        "gameDate": "3/6/20 0:00",
+        "personId": 5696,
+        "points": 35,
+        "fieldGoalsAttempted": 21,
+        "plusMinus": 7,
+        "pointsPer36MP": 32.8996,
+        "fieldGoalsAttemptedPer36MP": 19.7398,
+        "plusMinusPer36MP": 6.5799
+    },
+    {
+        "gameDate": "3/6/20 0:00",
+        "personId": 6497,
+        "points": 17,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -5,
+        "pointsPer36MP": 23.0219,
+        "fieldGoalsAttemptedPer36MP": 16.2508,
+        "plusMinusPer36MP": -6.7712
+    },
+    {
+        "gameDate": "3/6/20 0:00",
+        "personId": 8684,
+        "points": 14,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": 7,
+        "pointsPer36MP": 14.1706,
+        "fieldGoalsAttemptedPer36MP": 9.1097,
+        "plusMinusPer36MP": 7.0853
+    },
+    {
+        "gameDate": "3/6/20 0:00",
+        "personId": 8685,
+        "points": 7,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -6,
+        "pointsPer36MP": 20.5995,
+        "fieldGoalsAttemptedPer36MP": 5.8856,
+        "plusMinusPer36MP": -17.6567
+    },
+    {
+        "gameDate": "3/6/20 0:00",
+        "personId": 8687,
+        "points": 13,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": -5,
+        "pointsPer36MP": 16.6449,
+        "fieldGoalsAttemptedPer36MP": 12.8038,
+        "plusMinusPer36MP": -6.4019
+    },
+    {
+        "gameDate": "3/6/20 0:00",
+        "personId": 9756,
+        "points": 10,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -1,
+        "pointsPer36MP": 19.6185,
+        "fieldGoalsAttemptedPer36MP": 7.8474,
+        "plusMinusPer36MP": -1.9619
+    },
+    {
+        "gameDate": "3/6/20 0:00",
+        "personId": 9757,
+        "points": 3,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 8,
+        "pointsPer36MP": 3.286,
+        "fieldGoalsAttemptedPer36MP": 6.572,
+        "plusMinusPer36MP": 8.7627
+    },
+    {
+        "gameDate": "3/8/20 0:00",
+        "personId": 5696,
+        "points": 23,
+        "fieldGoalsAttempted": 24,
+        "plusMinus": -24,
+        "pointsPer36MP": 23.0973,
+        "fieldGoalsAttemptedPer36MP": 24.1015,
+        "plusMinusPer36MP": -24.1015
+    },
+    {
+        "gameDate": "3/8/20 0:00",
+        "personId": 6497,
+        "points": 25,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -7,
+        "pointsPer36MP": 33.0903,
+        "fieldGoalsAttemptedPer36MP": 19.8542,
+        "plusMinusPer36MP": -9.2653
+    },
+    {
+        "gameDate": "3/8/20 0:00",
+        "personId": 8685,
+        "points": 3,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 4,
+        "pointsPer36MP": 6.9903,
+        "fieldGoalsAttemptedPer36MP": 4.6602,
+        "plusMinusPer36MP": 9.3204
+    },
+    {
+        "gameDate": "3/8/20 0:00",
+        "personId": 8687,
+        "points": 5,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -9,
+        "pointsPer36MP": 5.9603,
+        "fieldGoalsAttemptedPer36MP": 9.5364,
+        "plusMinusPer36MP": -10.7285
+    },
+    {
+        "gameDate": "3/8/20 0:00",
+        "personId": 8689,
+        "points": 0,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": 3,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 6.3281,
+        "plusMinusPer36MP": 6.3281
+    },
+    {
+        "gameDate": "3/8/20 0:00",
+        "personId": 9756,
+        "points": 4,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 10,
+        "pointsPer36MP": 7.8976,
+        "fieldGoalsAttemptedPer36MP": 3.9488,
+        "plusMinusPer36MP": 19.7441
+    },
+    {
+        "gameDate": "3/8/20 0:00",
+        "personId": 9757,
+        "points": 0,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -17,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 7.2819,
+        "plusMinusPer36MP": -15.4741
+    },
+    {
+        "gameDate": "3/10/20 0:00",
+        "personId": 5696,
+        "points": 39,
+        "fieldGoalsAttempted": 25,
+        "plusMinus": 14,
+        "pointsPer36MP": 36.4533,
+        "fieldGoalsAttemptedPer36MP": 23.3675,
+        "plusMinusPer36MP": 13.0858
+    },
+    {
+        "gameDate": "3/10/20 0:00",
+        "personId": 6497,
+        "points": 11,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -3,
+        "pointsPer36MP": 13.5632,
+        "fieldGoalsAttemptedPer36MP": 11.0972,
+        "plusMinusPer36MP": -3.6991
+    },
+    {
+        "gameDate": "3/10/20 0:00",
+        "personId": 8684,
+        "points": 0,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": 23,
+        "pointsPer36MP": 0,
+        "fieldGoalsAttemptedPer36MP": 5.0704,
+        "plusMinusPer36MP": 58.3099
+    },
+    {
+        "gameDate": "3/10/20 0:00",
+        "personId": 8687,
+        "points": 9,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": 3,
+        "pointsPer36MP": 13.7677,
+        "fieldGoalsAttemptedPer36MP": 6.119,
+        "plusMinusPer36MP": 4.5892
+    },
+    {
+        "gameDate": "3/10/20 0:00",
+        "personId": 8689,
+        "points": 5,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -15,
+        "pointsPer36MP": 21.0526,
+        "fieldGoalsAttemptedPer36MP": 12.6316,
+        "plusMinusPer36MP": -63.1579
+    },
+    {
+        "gameDate": "3/10/20 0:00",
+        "personId": 9756,
+        "points": 10,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": 3,
+        "pointsPer36MP": 16.9945,
+        "fieldGoalsAttemptedPer36MP": 6.7978,
+        "plusMinusPer36MP": 5.0983
+    },
+    {
+        "gameDate": "3/10/20 0:00",
+        "personId": 9757,
+        "points": 12,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 1,
+        "pointsPer36MP": 15.1137,
+        "fieldGoalsAttemptedPer36MP": 7.5569,
+        "plusMinusPer36MP": 1.2595
+    },
+    {
+        "gameDate": "7/31/20 0:00",
+        "personId": 5698,
+        "points": 17,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": -3,
+        "pointsPer36MP": 22.7228,
+        "fieldGoalsAttemptedPer36MP": 24.0594,
+        "plusMinusPer36MP": -4.0099
+    },
+    {
+        "gameDate": "7/31/20 0:00",
+        "personId": 8684,
+        "points": 20,
+        "fieldGoalsAttempted": 9,
+        "plusMinus": -11,
+        "pointsPer36MP": 22.7488,
+        "fieldGoalsAttemptedPer36MP": 10.237,
+        "plusMinusPer36MP": -12.5118
+    },
+    {
+        "gameDate": "7/31/20 0:00",
+        "personId": 8685,
+        "points": 9,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -11,
+        "pointsPer36MP": 14.6496,
+        "fieldGoalsAttemptedPer36MP": 9.7664,
+        "plusMinusPer36MP": -17.905
+    },
+    {
+        "gameDate": "7/31/20 0:00",
+        "personId": 8687,
+        "points": 15,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -14,
+        "pointsPer36MP": 20.339,
+        "fieldGoalsAttemptedPer36MP": 14.9153,
+        "plusMinusPer36MP": -18.9831
+    },
+    {
+        "gameDate": "7/31/20 0:00",
+        "personId": 9756,
+        "points": 2,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -4,
+        "pointsPer36MP": 4.9827,
+        "fieldGoalsAttemptedPer36MP": 7.474,
+        "plusMinusPer36MP": -9.9654
+    },
+    {
+        "gameDate": "7/31/20 0:00",
+        "personId": 9757,
+        "points": 21,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -12,
+        "pointsPer36MP": 25.3833,
+        "fieldGoalsAttemptedPer36MP": 18.1309,
+        "plusMinusPer36MP": -14.5048
+    },
+    {
+        "gameDate": "8/2/20 0:00",
+        "personId": 5698,
+        "points": 14,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -4,
+        "pointsPer36MP": 18.0753,
+        "fieldGoalsAttemptedPer36MP": 15.4931,
+        "plusMinusPer36MP": -5.1644
+    },
+    {
+        "gameDate": "8/2/20 0:00",
+        "personId": 8684,
+        "points": 12,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -19,
+        "pointsPer36MP": 15.4746,
+        "fieldGoalsAttemptedPer36MP": 15.4746,
+        "plusMinusPer36MP": -24.5015
+    },
+    {
+        "gameDate": "8/2/20 0:00",
+        "personId": 8685,
+        "points": 4,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -9,
+        "pointsPer36MP": 5.5456,
+        "fieldGoalsAttemptedPer36MP": 5.5456,
+        "plusMinusPer36MP": -12.4775
+    },
+    {
+        "gameDate": "8/2/20 0:00",
+        "personId": 8687,
+        "points": 22,
+        "fieldGoalsAttempted": 17,
+        "plusMinus": 5,
+        "pointsPer36MP": 20.7692,
+        "fieldGoalsAttemptedPer36MP": 16.049,
+        "plusMinusPer36MP": 4.7203
+    },
+    {
+        "gameDate": "8/2/20 0:00",
+        "personId": 9756,
+        "points": 2,
+        "fieldGoalsAttempted": 2,
+        "plusMinus": -11,
+        "pointsPer36MP": 10.3846,
+        "fieldGoalsAttemptedPer36MP": 10.3846,
+        "plusMinusPer36MP": -57.1154
+    },
+    {
+        "gameDate": "8/2/20 0:00",
+        "personId": 9757,
+        "points": 9,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 0,
+        "pointsPer36MP": 10.0569,
+        "fieldGoalsAttemptedPer36MP": 6.7046,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "8/3/20 0:00",
+        "personId": 5698,
+        "points": 12,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": -13,
+        "pointsPer36MP": 19.6513,
+        "fieldGoalsAttemptedPer36MP": 21.2889,
+        "plusMinusPer36MP": -21.2889
+    },
+    {
+        "gameDate": "8/3/20 0:00",
+        "personId": 8684,
+        "points": 17,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": -6,
+        "pointsPer36MP": 21.1399,
+        "fieldGoalsAttemptedPer36MP": 22.3834,
+        "plusMinusPer36MP": -7.4611
+    },
+    {
+        "gameDate": "8/3/20 0:00",
+        "personId": 8685,
+        "points": 8,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": 3,
+        "pointsPer36MP": 8.1199,
+        "fieldGoalsAttemptedPer36MP": 6.0899,
+        "plusMinusPer36MP": 3.045
+    },
+    {
+        "gameDate": "8/3/20 0:00",
+        "personId": 8687,
+        "points": 10,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -8,
+        "pointsPer36MP": 11.7213,
+        "fieldGoalsAttemptedPer36MP": 12.8934,
+        "plusMinusPer36MP": -9.377
+    },
+    {
+        "gameDate": "8/3/20 0:00",
+        "personId": 9756,
+        "points": 5,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": 0,
+        "pointsPer36MP": 9.4159,
+        "fieldGoalsAttemptedPer36MP": 15.0654,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "8/3/20 0:00",
+        "personId": 9757,
+        "points": 9,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -15,
+        "pointsPer36MP": 9.5112,
+        "fieldGoalsAttemptedPer36MP": 12.6816,
+        "plusMinusPer36MP": -15.852
+    },
+    {
+        "gameDate": "8/5/20 0:00",
+        "personId": 5698,
+        "points": 12,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": -2,
+        "pointsPer36MP": 14.2496,
+        "fieldGoalsAttemptedPer36MP": 16.6245,
+        "plusMinusPer36MP": -2.3749
+    },
+    {
+        "gameDate": "8/5/20 0:00",
+        "personId": 8684,
+        "points": 19,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -15,
+        "pointsPer36MP": 23.3314,
+        "fieldGoalsAttemptedPer36MP": 13.5077,
+        "plusMinusPer36MP": -18.4196
+    },
+    {
+        "gameDate": "8/5/20 0:00",
+        "personId": 8685,
+        "points": 6,
+        "fieldGoalsAttempted": 5,
+        "plusMinus": -5,
+        "pointsPer36MP": 7.9319,
+        "fieldGoalsAttemptedPer36MP": 6.61,
+        "plusMinusPer36MP": -6.61
+    },
+    {
+        "gameDate": "8/5/20 0:00",
+        "personId": 8687,
+        "points": 17,
+        "fieldGoalsAttempted": 16,
+        "plusMinus": -2,
+        "pointsPer36MP": 17.0079,
+        "fieldGoalsAttemptedPer36MP": 16.0074,
+        "plusMinusPer36MP": -2.0009
+    },
+    {
+        "gameDate": "8/5/20 0:00",
+        "personId": 9756,
+        "points": 5,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -17,
+        "pointsPer36MP": 10.4348,
+        "fieldGoalsAttemptedPer36MP": 12.5217,
+        "plusMinusPer36MP": -35.4783
+    },
+    {
+        "gameDate": "8/5/20 0:00",
+        "personId": 9757,
+        "points": 8,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -4,
+        "pointsPer36MP": 7.4708,
+        "fieldGoalsAttemptedPer36MP": 10.2724,
+        "plusMinusPer36MP": -3.7354
+    },
+    {
+        "gameDate": "8/7/20 0:00",
+        "personId": 5698,
+        "points": 18,
+        "fieldGoalsAttempted": 16,
+        "plusMinus": -1,
+        "pointsPer36MP": 20.3667,
+        "fieldGoalsAttemptedPer36MP": 18.1037,
+        "plusMinusPer36MP": -1.1315
+    },
+    {
+        "gameDate": "8/7/20 0:00",
+        "personId": 8684,
+        "points": 6,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -11,
+        "pointsPer36MP": 9.0314,
+        "fieldGoalsAttemptedPer36MP": 12.0418,
+        "plusMinusPer36MP": -16.5575
+    },
+    {
+        "gameDate": "8/7/20 0:00",
+        "personId": 8685,
+        "points": 7,
+        "fieldGoalsAttempted": 4,
+        "plusMinus": -7,
+        "pointsPer36MP": 10.162,
+        "fieldGoalsAttemptedPer36MP": 5.8068,
+        "plusMinusPer36MP": -10.162
+    },
+    {
+        "gameDate": "8/7/20 0:00",
+        "personId": 8687,
+        "points": 20,
+        "fieldGoalsAttempted": 16,
+        "plusMinus": -7,
+        "pointsPer36MP": 18.7021,
+        "fieldGoalsAttemptedPer36MP": 14.9617,
+        "plusMinusPer36MP": -6.5457
+    },
+    {
+        "gameDate": "8/7/20 0:00",
+        "personId": 9756,
+        "points": 2,
+        "fieldGoalsAttempted": 1,
+        "plusMinus": -9,
+        "pointsPer36MP": 7.3096,
+        "fieldGoalsAttemptedPer36MP": 3.6548,
+        "plusMinusPer36MP": -32.8934
+    },
+    {
+        "gameDate": "8/7/20 0:00",
+        "personId": 9757,
+        "points": 23,
+        "fieldGoalsAttempted": 16,
+        "plusMinus": 1,
+        "pointsPer36MP": 22.081,
+        "fieldGoalsAttemptedPer36MP": 15.3607,
+        "plusMinusPer36MP": 0.96
+    },
+    {
+        "gameDate": "8/9/20 0:00",
+        "personId": 5698,
+        "points": 10,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": -9,
+        "pointsPer36MP": 16.376,
+        "fieldGoalsAttemptedPer36MP": 11.4632,
+        "plusMinusPer36MP": -14.7384
+    },
+    {
+        "gameDate": "8/9/20 0:00",
+        "personId": 8684,
+        "points": 19,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": 0,
+        "pointsPer36MP": 23.2009,
+        "fieldGoalsAttemptedPer36MP": 18.3165,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "8/9/20 0:00",
+        "personId": 8685,
+        "points": 14,
+        "fieldGoalsAttempted": 12,
+        "plusMinus": -11,
+        "pointsPer36MP": 17.6121,
+        "fieldGoalsAttemptedPer36MP": 15.0961,
+        "plusMinusPer36MP": -13.8381
+    },
+    {
+        "gameDate": "8/9/20 0:00",
+        "personId": 8687,
+        "points": 12,
+        "fieldGoalsAttempted": 14,
+        "plusMinus": -24,
+        "pointsPer36MP": 14.8199,
+        "fieldGoalsAttemptedPer36MP": 17.2899,
+        "plusMinusPer36MP": -29.6398
+    },
+    {
+        "gameDate": "8/9/20 0:00",
+        "personId": 9756,
+        "points": 12,
+        "fieldGoalsAttempted": 8,
+        "plusMinus": -7,
+        "pointsPer36MP": 20.3614,
+        "fieldGoalsAttemptedPer36MP": 13.5742,
+        "plusMinusPer36MP": -11.8775
+    },
+    {
+        "gameDate": "8/9/20 0:00",
+        "personId": 9757,
+        "points": 11,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": -9,
+        "pointsPer36MP": 15.5294,
+        "fieldGoalsAttemptedPer36MP": 15.5294,
+        "plusMinusPer36MP": -12.7059
+    },
+    {
+        "gameDate": "8/11/20 0:00",
+        "personId": 5698,
+        "points": 19,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -7,
+        "pointsPer36MP": 26.3415,
+        "fieldGoalsAttemptedPer36MP": 20.7959,
+        "plusMinusPer36MP": -9.7047
+    },
+    {
+        "gameDate": "8/11/20 0:00",
+        "personId": 8684,
+        "points": 15,
+        "fieldGoalsAttempted": 11,
+        "plusMinus": 0,
+        "pointsPer36MP": 16.4634,
+        "fieldGoalsAttemptedPer36MP": 12.0732,
+        "plusMinusPer36MP": 0
+    },
+    {
+        "gameDate": "8/11/20 0:00",
+        "personId": 8685,
+        "points": 10,
+        "fieldGoalsAttempted": 6,
+        "plusMinus": -15,
+        "pointsPer36MP": 11.9278,
+        "fieldGoalsAttemptedPer36MP": 7.1567,
+        "plusMinusPer36MP": -17.8917
+    },
+    {
+        "gameDate": "8/11/20 0:00",
+        "personId": 8687,
+        "points": 9,
+        "fieldGoalsAttempted": 15,
+        "plusMinus": -17,
+        "pointsPer36MP": 10.7285,
+        "fieldGoalsAttemptedPer36MP": 17.8808,
+        "plusMinusPer36MP": -20.2649
+    },
+    {
+        "gameDate": "8/11/20 0:00",
+        "personId": 9756,
+        "points": 6,
+        "fieldGoalsAttempted": 3,
+        "plusMinus": -6,
+        "pointsPer36MP": 10.5537,
+        "fieldGoalsAttemptedPer36MP": 5.2769,
+        "plusMinusPer36MP": -10.5537
+    },
+    {
+        "gameDate": "8/11/20 0:00",
+        "personId": 9757,
+        "points": 20,
+        "fieldGoalsAttempted": 18,
+        "plusMinus": -14,
+        "pointsPer36MP": 24.6435,
+        "fieldGoalsAttemptedPer36MP": 22.1791,
+        "plusMinusPer36MP": -17.2504
+    },
+    {
+        "gameDate": "8/13/20 0:00",
+        "personId": 5698,
+        "points": 11,
+        "fieldGoalsAttempted": 13,
+        "plusMinus": 8,
+        "pointsPer36MP": 12.9624,
+        "fieldGoalsAttemptedPer36MP": 15.3191,
+        "plusMinusPer36MP": 9.4272
+    },
+    {
+        "gameDate": "8/13/20 0:00",
+        "personId": 8684,
+        "points": 10,
+        "fieldGoalsAttempted": 10,
+        "plusMinus": 1,
+        "pointsPer36MP": 13.1868,
+        "fieldGoalsAttemptedPer36MP": 13.1868,
+        "plusMinusPer36MP": 1.3187
+    },
+    {
+        "gameDate": "8/13/20 0:00",
+        "personId": 8685,
+        "points": 6,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 1,
+        "pointsPer36MP": 7.2686,
+        "fieldGoalsAttemptedPer36MP": 8.4801,
+        "plusMinusPer36MP": 1.2114
+    },
+    {
+        "gameDate": "8/13/20 0:00",
+        "personId": 8687,
+        "points": 17,
+        "fieldGoalsAttempted": 16,
+        "plusMinus": 9,
+        "pointsPer36MP": 18.1333,
+        "fieldGoalsAttemptedPer36MP": 17.0667,
+        "plusMinusPer36MP": 9.6
+    },
+    {
+        "gameDate": "8/13/20 0:00",
+        "personId": 9756,
+        "points": 7,
+        "fieldGoalsAttempted": 7,
+        "plusMinus": 2,
+        "pointsPer36MP": 13.2283,
+        "fieldGoalsAttemptedPer36MP": 13.2283,
+        "plusMinusPer36MP": 3.7795
+    }
+]

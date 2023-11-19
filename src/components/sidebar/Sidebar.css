@@ -1,0 +1,41 @@
+.sidebar {
+  background-color: var(--red);
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.activeNameContainer {
+  background-color: var(--navy);
+}
+
+.activeNameContainer:hover {
+  cursor: pointer;
+}
+
+.nameContainer:hover {
+  cursor: pointer;
+}
+.nameText {
+  color: white;
+  padding-right: 25px;
+  padding-left: 25px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.nameText:hover {
+  transform: scale(1.1);
+}
+
+.activeNameText {
+  color: white;
+  padding-right: 25px;
+  padding-left: 25px;
+  font-size: 12px;
+  background-color: var(--navy);
+}
