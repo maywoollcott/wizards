@@ -31,7 +31,7 @@ export const BoxScoreModal = ({ player, arrayByPlayer }) => {
 
   useEffect(() => {
     const generateArray = (dataType, total) => {
-      const header = [['DataType', 'Points']];
+      const header = [['Date', 'DataType']];
       const totalDataArray = arrayByPlayer.map((game) => {
         if (total) {
           return [game.gameDate.split(' ')[0], game[dataType]];
